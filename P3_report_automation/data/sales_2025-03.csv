@@ -1,0 +1,62 @@
+DATE,PRODUCT,REGION,QTY,REVENUE
+2025-03-25,Keyboard,East,7.0,12600
+2025-03-19,Monitor,South,1.0,1800
+2025-03-09,Headphones,North,8.0,14400
+2025-03-27,Headphones ,North,3.0,7500
+2025-03-15,Laptop,North,7.0,84000
+2025-03-05,Laptop,West,,36000
+2025-03-15,Printer,West,7.0,84000
+2025-03-27,Headphones,South,9.0,36000
+2025-03-04,Printer,East,8.0,96000
+2025-03-20,Printer ,South,5.0,60000
+2025-03-07,Headphones ,South,4.0,10000
+2025-03-01,Monitor,West,1.0,2500
+2025-03-04,Headphones ,East,1.0,2500
+2025-03-22,Headphones ,South,2.0,24000
+2025-03-16,Monitor,East,8.0,96000
+2025-03-24,Headphones,North,8.0,14400
+2025-03-15,Keyboard ,East,4.0,7200
+2025-03-12,Headphones ,East,3.0,36000
+2025-03-25,Headphones,East,9.0,81000
+2025-03-15,Monitor,North,2.0,3600
+2025-03-27,Keyboard,North,8.0,20000
+2025-03-07,Printer,East,5.0,9000
+2025-03-10,Headphones,East,6.0,72000
+2025-03-04,Monitor ,West,6.0,54000
+2025-03-15,Printer,West,5.0,60000
+2025-03-13,Printer,North,4.0,48000
+2025-03-01,Monitor ,West,6.0,54000
+2025-03-26,Headphones ,East,7.0,12600
+2025-03-05,Printer ,South,9.0,36000
+2025-03-25,Keyboard,North,2.0,8000
+2025-03-02,Printer,East,9.0,22500
+2025-03-03,Printer ,East,7.0,63000
+2025-03-11,Laptop,North,2.0,24000
+2025-03-01,Headphones,West,2.0,8000
+2025-03-16,Printer,West,4.0,7200
+2025-03-11,Monitor ,South,6.0,10800
+2025-03-18,Laptop ,North,8.0,14400
+2025-03-28,Laptop,North,6.0,10800
+2025-03-21,Laptop ,East,9.0,22500
+2025-03-14,Keyboard,South,2.0,8000
+2025-03-22,Headphones,South,7.0,12600
+2025-03-17,Monitor,North,7.0,12600
+2025-03-24,Laptop,South,5.0,20000
+2025-03-25,Keyboard,West,1.0,2500
+2025-03-04,Headphones,East,6.0,24000
+2025-03-20,Keyboard ,South,4.0,7200
+2025-03-09,Keyboard,East,3.0,27000
+2025-03-16,Monitor,West,9.0,108000
+2025-03-25,Laptop,South,9.0,16200
+2025-03-07,Headphones,East,1.0,2500
+2025-03-01,Keyboard,West,4.0,16000
+2025-03-20,Headphones,South,7.0,84000
+2025-03-09,Printer,East,3.0,27000
+2025-03-02,Headphones ,South,9.0,22500
+2025-03-27,Headphones,North,4.0,48000
+2025-03-20,Printer,West,5.0,9000
+2025-03-24,Printer ,East,2.0,5000
+2025-03-14,Headphones ,North,4.0,7200
+2025-03-02,Printer,West,4.0,16000
+2025-03-11,Monitor,North,5.0,45000
+2025-03-25,Keyboard,East,7.0,12600

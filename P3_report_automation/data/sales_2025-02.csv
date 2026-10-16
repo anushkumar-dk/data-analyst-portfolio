@@ -1,0 +1,62 @@
+date,product name,region,quantity,revenue (inr)
+2025-02-09,Monitor ,South,4.0,7200
+2025-02-03,Keyboard ,West,4.0,16000
+2025-02-15,Headphones ,North,8.0,14400
+2025-02-19,Printer,West,9.0,108000
+2025-02-04,Laptop,South,4.0,7200
+2025-02-10,Printer,East,,5000
+2025-02-17,Laptop,West,6.0,72000
+2025-02-14,Monitor,North,9.0,36000
+2025-02-14,Laptop,East,2.0,8000
+2025-02-05,Printer ,West,8.0,14400
+2025-02-25,Headphones,East,2.0,18000
+2025-02-17,Printer ,East,3.0,36000
+2025-02-28,Printer,East,7.0,28000
+2025-02-17,Monitor ,West,9.0,36000
+2025-02-18,Laptop ,North,7.0,63000
+2025-02-01,Printer,West,7.0,63000
+2025-02-16,Laptop ,South,2.0,5000
+2025-02-15,Keyboard,East,9.0,36000
+2025-02-16,Headphones,West,8.0,14400
+2025-02-11,Laptop,West,9.0,81000
+2025-02-09,Headphones ,North,1.0,2500
+2025-02-05,Headphones,East,4.0,48000
+2025-02-08,Printer,North,6.0,10800
+2025-02-28,Printer ,East,2.0,8000
+2025-02-14,Laptop,West,9.0,81000
+2025-02-18,Headphones ,South,3.0,27000
+2025-02-28,Printer ,South,4.0,16000
+2025-02-06,Monitor ,East,6.0,24000
+2025-02-25,Headphones,South,4.0,16000
+2025-02-24,Laptop,West,3.0,7500
+2025-02-27,Keyboard ,South,7.0,28000
+2025-02-21,Laptop,South,7.0,63000
+2025-02-27,Monitor,East,6.0,54000
+2025-02-26,Laptop,North,4.0,10000
+2025-02-25,Printer ,West,1.0,4000
+2025-02-06,Laptop,South,4.0,16000
+2025-02-22,Laptop ,North,5.0,20000
+2025-02-03,Laptop,West,8.0,14400
+2025-02-17,Monitor,South,7.0,63000
+2025-02-01,Laptop,South,6.0,10800
+2025-02-12,Monitor,South,8.0,72000
+2025-02-04,Printer,East,3.0,7500
+2025-02-19,Printer,East,7.0,84000
+2025-02-04,Headphones,South,5.0,60000
+2025-02-23,Monitor,South,9.0,16200
+2025-02-24,Headphones,East,4.0,48000
+2025-02-04,Laptop,North,8.0,32000
+2025-02-22,Monitor,South,5.0,9000
+2025-02-18,Laptop,West,3.0,12000
+2025-02-25,Keyboard ,North,2.0,5000
+2025-02-24,Headphones,West,2.0,3600
+2025-02-02,Headphones ,West,9.0,22500
+2025-02-09,Monitor,East,2.0,18000
+2025-02-17,Keyboard ,North,9.0,16200
+2025-02-18,Printer ,North,2.0,3600
+2025-02-13,Keyboard,West,3.0,27000
+2025-02-14,Keyboard,East,1.0,9000
+2025-02-20,Monitor,East,7.0,12600
+2025-02-18,Monitor ,East,5.0,12500
+2025-02-25,Headphones ,North,1.0,4000
+2025-02-09,Monitor ,South,4.0,7200
