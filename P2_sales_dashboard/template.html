@@ -1,0 +1,63 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Retail Sales Dashboard</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--text:#1c2330;--mute:#6b7585;--line:#e3e6eb;--acc:#2563eb;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#12161d;--card:#1b212b;--text:#e8ebf0;--mute:#98a2b3;--line:#2b3340;--acc:#6ea0ff}}
+:root[data-theme="dark"]{--bg:#12161d;--card:#1b212b;--text:#e8ebf0;--mute:#98a2b3;--line:#2b3340;--acc:#6ea0ff}
+html{color-scheme:light dark}
+body{margin:0;background:var(--bg);color:var(--text);font-family:Arial,Helvetica,sans-serif;padding:16px}
+h1{font-size:20px;margin:0 0 4px}.sub{color:var(--mute);font-size:12px;margin-bottom:14px}
+.filters{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px}
+select{background:var(--card);color:var(--text);border:1px solid var(--line);border-radius:8px;padding:8px 10px;font-size:14px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px}
+.k{font-size:12px;color:var(--mute)}.v{font-size:24px;font-weight:700;margin-top:4px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:12px}
+.wide{grid-column:1/-1}.ch{position:relative;height:260px}
+</style></head><body>
+<h1>Retail Sales Dashboard</h1><div class="sub">Synthetic sample data, 2024–2025 · values in ₹</div>
+<div class="filters">
+<select id="fy"><option value="all">All years</option><option>2024</option><option>2025</option></select>
+<select id="fr"><option value="all">All regions</option></select>
+<select id="fc"><option value="all">All categories</option></select></div>
+<div class="kpis">
+<div class="card"><div class="k">Total sales</div><div class="v" id="k1"></div></div>
+<div class="card"><div class="k">Total profit</div><div class="v" id="k2"></div></div>
+<div class="card"><div class="k">Profit margin</div><div class="v" id="k3"></div></div>
+<div class="card"><div class="k">Units sold</div><div class="v" id="k4"></div></div></div>
+<div class="grid">
+<div class="card wide"><div class="k">Monthly sales trend</div><div class="ch"><canvas id="c1"></canvas></div></div>
+<div class="card"><div class="k">Top 5 products by sales</div><div class="ch"><canvas id="c2"></canvas></div></div>
+<div class="card"><div class="k">Sales by region</div><div class="ch"><canvas id="c3"></canvas></div></div></div>
+<script>
+const D=__DATA__;
+const uniq=k=>[...new Set(D.map(r=>r[k]))];
+uniq("region").forEach(v=>fr.add(new Option(v,v)));uniq("category").forEach(v=>fc.add(new Option(v,v)));
+const fmt=n=>"₹"+(n>=1e7?(n/1e7).toFixed(2)+" Cr":n>=1e5?(n/1e5).toFixed(2)+" L":n.toLocaleString("en-IN"));
+const sum=(a,k)=>a.reduce((s,r)=>s+r[k],0);
+const group=(a,k)=>{const o={};a.forEach(r=>o[r[k]]=(o[r[k]]||0)+r.sales);return o};
+const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+let ch={};
+function mk(id,type,labels,data,horiz){
+ const col=css("--acc"),mute=css("--mute"),line=css("--line");
+ Chart.defaults.color=mute;
+ if(ch[id]){ch[id].destroy()}
+ const val={grid:{color:line},ticks:{callback:v=>fmt(v)}},cat={grid:{color:line}};
+ ch[id]=new Chart(document.getElementById(id),{type,data:{labels,datasets:[{data,backgroundColor:col,borderColor:col,tension:.3,pointRadius:2}]},
+  options:{responsive:true,maintainAspectRatio:false,indexAxis:horiz?"y":"x",plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>fmt(c.raw)}}},
+  scales:horiz?{x:val,y:cat}:{x:cat,y:val}}});
+}
+function render(){
+ const f=D.filter(r=>(fy.value=="all"||r.year==fy.value)&&(fr.value=="all"||r.region==fr.value)&&(fc.value=="all"||r.category==fc.value));
+ const s=sum(f,"sales"),p=sum(f,"profit");
+ k1.textContent=fmt(s);k2.textContent=fmt(p);k3.textContent=s?(p/s*100).toFixed(1)+"%":"–";k4.textContent=sum(f,"orders").toLocaleString("en-IN");
+ const m=group(f,"month"),ks=Object.keys(m).sort();mk("c1","line",ks,ks.map(k=>m[k]));
+ const pr=Object.entries(group(f,"product")).sort((a,b)=>b[1]-a[1]).slice(0,5);
+ mk("c2","bar",pr.map(x=>x[0]),pr.map(x=>x[1]),true);
+ const rg=group(f,"region");mk("c3","bar",Object.keys(rg),Object.values(rg));
+}
+[fy,fr,fc].forEach(e=>e.onchange=render);
+matchMedia("(prefers-color-scheme: dark)").onchange=render;render();
+</script></body></html>

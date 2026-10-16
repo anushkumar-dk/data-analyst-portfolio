@@ -1,0 +1,1441 @@
+month,year,region,category,product,orders,sales,profit
+2024-01,2024,North,Technology,Laptop,10,550000,84890
+2024-01,2024,North,Technology,Headphones,14,49000,8425
+2024-01,2024,North,Technology,Smartphone,16,352000,54615
+2024-01,2024,North,Technology,Monitor,13,124800,4267
+2024-01,2024,North,Technology,Keyboard,15,27000,5585
+2024-01,2024,North,Furniture,Office Chair,14,126000,10663
+2024-01,2024,North,Furniture,Desk,3,42000,3503
+2024-01,2024,North,Furniture,Bookshelf,18,117000,7883
+2024-01,2024,North,Furniture,Lamp,13,17550,414
+2024-01,2024,North,Furniture,Filing Cabinet,13,91000,5113
+2024-01,2024,North,Office Supplies,Notebook,29,3480,1054
+2024-01,2024,North,Office Supplies,Printer Paper,32,14400,4376
+2024-01,2024,North,Office Supplies,Pens (box),25,5000,983
+2024-01,2024,North,Office Supplies,Stapler,26,6240,1155
+2024-01,2024,North,Office Supplies,Binder,26,5200,1622
+2024-01,2024,South,Technology,Laptop,16,880000,136322
+2024-01,2024,South,Technology,Headphones,13,40950,5478
+2024-01,2024,South,Technology,Smartphone,20,396000,50109
+2024-01,2024,South,Technology,Monitor,20,240000,46903
+2024-01,2024,South,Technology,Keyboard,17,30600,6303
+2024-01,2024,South,Furniture,Office Chair,3,27000,2589
+2024-01,2024,South,Furniture,Desk,21,264600,2754
+2024-01,2024,South,Furniture,Bookshelf,11,57200,-3768
+2024-01,2024,South,Furniture,Lamp,19,28500,3040
+2024-01,2024,South,Furniture,Filing Cabinet,7,49000,4600
+2024-01,2024,South,Office Supplies,Notebook,48,5184,1290
+2024-01,2024,South,Office Supplies,Printer Paper,72,29160,7377
+2024-01,2024,South,Office Supplies,Pens (box),43,9675,2045
+2024-01,2024,South,Office Supplies,Stapler,36,10800,3236
+2024-01,2024,South,Office Supplies,Binder,47,9400,2971
+2024-01,2024,East,Technology,Laptop,11,484000,41144
+2024-01,2024,East,Technology,Headphones,11,30800,1073
+2024-01,2024,East,Technology,Smartphone,5,110000,21907
+2024-01,2024,East,Technology,Monitor,10,108000,14297
+2024-01,2024,East,Technology,Keyboard,14,20160,1763
+2024-01,2024,East,Furniture,Office Chair,9,81000,4453
+2024-01,2024,East,Furniture,Desk,12,168000,13288
+2024-01,2024,East,Furniture,Bookshelf,13,84500,5557
+2024-01,2024,East,Furniture,Lamp,12,16200,431
+2024-01,2024,East,Furniture,Filing Cabinet,9,56700,2675
+2024-01,2024,East,Office Supplies,Notebook,24,2880,857
+2024-01,2024,East,Office Supplies,Printer Paper,18,6480,1127
+2024-01,2024,East,Office Supplies,Pens (box),20,4000,615
+2024-01,2024,East,Office Supplies,Stapler,35,10500,3455
+2024-01,2024,East,Office Supplies,Binder,24,4800,1325
+2024-01,2024,West,Technology,Laptop,13,715000,130271
+2024-01,2024,West,Technology,Headphones,18,63000,12755
+2024-01,2024,West,Technology,Smartphone,11,193600,7534
+2024-01,2024,West,Technology,Monitor,13,140400,16630
+2024-01,2024,West,Technology,Keyboard,17,30600,6149
+2024-01,2024,West,Furniture,Office Chair,18,129600,-6647
+2024-01,2024,West,Furniture,Desk,12,168000,9430
+2024-01,2024,West,Furniture,Bookshelf,11,71500,5790
+2024-01,2024,West,Furniture,Lamp,16,24000,2569
+2024-01,2024,West,Furniture,Filing Cabinet,10,70000,6684
+2024-01,2024,West,Office Supplies,Notebook,38,4104,1103
+2024-01,2024,West,Office Supplies,Printer Paper,52,21060,5078
+2024-01,2024,West,Office Supplies,Pens (box),24,6000,1748
+2024-01,2024,West,Office Supplies,Stapler,42,11340,2814
+2024-01,2024,West,Office Supplies,Binder,55,11000,3502
+2024-02,2024,North,Technology,Laptop,14,770000,124736
+2024-02,2024,North,Technology,Headphones,6,16800,862
+2024-02,2024,North,Technology,Smartphone,12,237600,28116
+2024-02,2024,North,Technology,Monitor,12,144000,27583
+2024-02,2024,North,Technology,Keyboard,16,25920,3818
+2024-02,2024,North,Furniture,Office Chair,10,81000,-419
+2024-02,2024,North,Furniture,Desk,15,189000,428
+2024-02,2024,North,Furniture,Bookshelf,14,91000,7168
+2024-02,2024,North,Furniture,Lamp,7,10500,1051
+2024-02,2024,North,Furniture,Filing Cabinet,6,42000,4393
+2024-02,2024,North,Office Supplies,Notebook,40,3840,781
+2024-02,2024,North,Office Supplies,Printer Paper,16,5760,1137
+2024-02,2024,North,Office Supplies,Pens (box),25,5000,889
+2024-02,2024,North,Office Supplies,Stapler,54,16200,5079
+2024-02,2024,North,Office Supplies,Binder,39,7800,2383
+2024-02,2024,South,Technology,Laptop,17,748000,58636
+2024-02,2024,South,Technology,Headphones,20,56000,3888
+2024-02,2024,South,Technology,Smartphone,22,435600,43279
+2024-02,2024,South,Technology,Monitor,14,168000,30508
+2024-02,2024,South,Technology,Keyboard,14,25200,4436
+2024-02,2024,South,Furniture,Office Chair,21,189000,9767
+2024-02,2024,South,Furniture,Desk,8,112000,7569
+2024-02,2024,South,Furniture,Bookshelf,15,87750,1989
+2024-02,2024,South,Furniture,Lamp,21,31500,1690
+2024-02,2024,South,Furniture,Filing Cabinet,14,78400,-1597
+2024-02,2024,South,Office Supplies,Notebook,13,1560,471
+2024-02,2024,South,Office Supplies,Printer Paper,42,15120,2972
+2024-02,2024,South,Office Supplies,Pens (box),44,11000,3482
+2024-02,2024,South,Office Supplies,Stapler,49,14700,4460
+2024-02,2024,South,Office Supplies,Binder,51,9180,2304
+2024-02,2024,East,Technology,Laptop,5,275000,55823
+2024-02,2024,East,Technology,Headphones,8,28000,4617
+2024-02,2024,East,Technology,Smartphone,8,140800,8969
+2024-02,2024,East,Technology,Monitor,15,180000,31787
+2024-02,2024,East,Technology,Keyboard,6,10800,2069
+2024-02,2024,East,Furniture,Office Chair,7,50400,-1991
+2024-02,2024,East,Furniture,Desk,10,140000,12873
+2024-02,2024,East,Furniture,Bookshelf,6,35100,1592
+2024-02,2024,East,Furniture,Lamp,11,13200,-815
+2024-02,2024,East,Furniture,Filing Cabinet,8,56000,4118
+2024-02,2024,East,Office Supplies,Notebook,23,2208,341
+2024-02,2024,East,Office Supplies,Printer Paper,41,16605,4268
+2024-02,2024,East,Office Supplies,Pens (box),33,7425,1623
+2024-02,2024,East,Office Supplies,Stapler,25,7500,2460
+2024-02,2024,East,Office Supplies,Binder,33,5280,1072
+2024-02,2024,West,Technology,Laptop,23,1265000,264881
+2024-02,2024,West,Technology,Headphones,14,39200,3514
+2024-02,2024,West,Technology,Smartphone,10,176000,8861
+2024-02,2024,West,Technology,Monitor,14,151200,13785
+2024-02,2024,West,Technology,Keyboard,16,23040,1300
+2024-02,2024,West,Furniture,Office Chair,17,137700,2855
+2024-02,2024,West,Furniture,Desk,13,182000,10332
+2024-02,2024,West,Furniture,Bookshelf,15,97500,5367
+2024-02,2024,West,Furniture,Lamp,11,14850,-113
+2024-02,2024,West,Furniture,Filing Cabinet,13,91000,9026
+2024-02,2024,West,Office Supplies,Notebook,29,3132,734
+2024-02,2024,West,Office Supplies,Printer Paper,24,8640,1659
+2024-02,2024,West,Office Supplies,Pens (box),35,8750,2509
+2024-02,2024,West,Office Supplies,Stapler,42,12600,3605
+2024-02,2024,West,Office Supplies,Binder,31,6200,1910
+2024-03,2024,North,Technology,Laptop,12,660000,101638
+2024-03,2024,North,Technology,Headphones,10,35000,6203
+2024-03,2024,North,Technology,Smartphone,9,178200,22685
+2024-03,2024,North,Technology,Monitor,16,192000,34870
+2024-03,2024,North,Technology,Keyboard,12,21600,3579
+2024-03,2024,North,Furniture,Office Chair,13,117000,7266
+2024-03,2024,North,Furniture,Desk,10,140000,9436
+2024-03,2024,North,Furniture,Bookshelf,15,97500,6458
+2024-03,2024,North,Furniture,Lamp,16,24000,1222
+2024-03,2024,North,Furniture,Filing Cabinet,0,0,0
+2024-03,2024,North,Office Supplies,Notebook,36,3456,655
+2024-03,2024,North,Office Supplies,Printer Paper,49,17640,3673
+2024-03,2024,North,Office Supplies,Pens (box),33,8250,2397
+2024-03,2024,North,Office Supplies,Stapler,43,12900,3796
+2024-03,2024,North,Office Supplies,Binder,33,6600,1788
+2024-03,2024,South,Technology,Laptop,16,792000,91749
+2024-03,2024,South,Technology,Headphones,21,58800,4835
+2024-03,2024,South,Technology,Smartphone,17,336600,42387
+2024-03,2024,South,Technology,Monitor,14,168000,26788
+2024-03,2024,South,Technology,Keyboard,13,18720,566
+2024-03,2024,South,Furniture,Office Chair,12,97200,454
+2024-03,2024,South,Furniture,Desk,18,226800,697
+2024-03,2024,South,Furniture,Bookshelf,16,104000,8162
+2024-03,2024,South,Furniture,Lamp,19,28500,1849
+2024-03,2024,South,Furniture,Filing Cabinet,15,105000,6156
+2024-03,2024,South,Office Supplies,Notebook,38,4560,1339
+2024-03,2024,South,Office Supplies,Printer Paper,38,17100,5218
+2024-03,2024,South,Office Supplies,Pens (box),65,16250,5029
+2024-03,2024,South,Office Supplies,Stapler,38,9120,1786
+2024-03,2024,South,Office Supplies,Binder,14,2240,356
+2024-03,2024,East,Technology,Laptop,8,440000,87776
+2024-03,2024,East,Technology,Headphones,5,14000,1036
+2024-03,2024,East,Technology,Smartphone,10,220000,43909
+2024-03,2024,East,Technology,Monitor,7,84000,13029
+2024-03,2024,East,Technology,Keyboard,13,23400,4039
+2024-03,2024,East,Furniture,Office Chair,10,72000,-2627
+2024-03,2024,East,Furniture,Desk,6,84000,6666
+2024-03,2024,East,Furniture,Bookshelf,6,39000,3019
+2024-03,2024,East,Furniture,Lamp,16,24000,2149
+2024-03,2024,East,Furniture,Filing Cabinet,12,84000,7958
+2024-03,2024,East,Office Supplies,Notebook,11,1188,266
+2024-03,2024,East,Office Supplies,Printer Paper,31,13950,3960
+2024-03,2024,East,Office Supplies,Pens (box),22,4400,680
+2024-03,2024,East,Office Supplies,Stapler,20,5400,1382
+2024-03,2024,East,Office Supplies,Binder,18,3600,1102
+2024-03,2024,West,Technology,Laptop,8,396000,41674
+2024-03,2024,West,Technology,Headphones,13,45500,6859
+2024-03,2024,West,Technology,Smartphone,9,198000,35471
+2024-03,2024,West,Technology,Monitor,15,180000,34298
+2024-03,2024,West,Technology,Keyboard,12,19440,2576
+2024-03,2024,West,Furniture,Office Chair,12,108000,11837
+2024-03,2024,West,Furniture,Desk,18,252000,17313
+2024-03,2024,West,Furniture,Bookshelf,17,99450,1744
+2024-03,2024,West,Furniture,Lamp,15,18000,-187
+2024-03,2024,West,Furniture,Filing Cabinet,5,35000,1907
+2024-03,2024,West,Office Supplies,Notebook,58,6960,1938
+2024-03,2024,West,Office Supplies,Printer Paper,7,3150,965
+2024-03,2024,West,Office Supplies,Pens (box),34,7650,2014
+2024-03,2024,West,Office Supplies,Stapler,36,8640,1500
+2024-03,2024,West,Office Supplies,Binder,30,6000,1621
+2024-04,2024,North,Technology,Laptop,7,346500,46303
+2024-04,2024,North,Technology,Headphones,12,33600,1701
+2024-04,2024,North,Technology,Smartphone,8,176000,29827
+2024-04,2024,North,Technology,Monitor,19,205200,28799
+2024-04,2024,North,Technology,Keyboard,18,32400,6613
+2024-04,2024,North,Furniture,Office Chair,18,145800,757
+2024-04,2024,North,Furniture,Desk,15,210000,15045
+2024-04,2024,North,Furniture,Bookshelf,13,67600,-1667
+2024-04,2024,North,Furniture,Lamp,13,19500,1952
+2024-04,2024,North,Furniture,Filing Cabinet,9,56700,1593
+2024-04,2024,North,Office Supplies,Notebook,54,5184,937
+2024-04,2024,North,Office Supplies,Printer Paper,61,27450,8685
+2024-04,2024,North,Office Supplies,Pens (box),38,9500,3028
+2024-04,2024,North,Office Supplies,Stapler,23,5520,1131
+2024-04,2024,North,Office Supplies,Binder,50,10000,2730
+2024-04,2024,South,Technology,Laptop,12,528000,30123
+2024-04,2024,South,Technology,Headphones,15,47250,5629
+2024-04,2024,South,Technology,Smartphone,7,154000,24678
+2024-04,2024,South,Technology,Monitor,11,118800,15960
+2024-04,2024,South,Technology,Keyboard,17,27540,3150
+2024-04,2024,South,Furniture,Office Chair,15,108000,-6784
+2024-04,2024,South,Furniture,Desk,20,280000,15263
+2024-04,2024,South,Furniture,Bookshelf,5,32500,2508
+2024-04,2024,South,Furniture,Lamp,14,18900,941
+2024-04,2024,South,Furniture,Filing Cabinet,12,84000,5430
+2024-04,2024,South,Office Supplies,Notebook,47,5640,1639
+2024-04,2024,South,Office Supplies,Printer Paper,54,21870,5655
+2024-04,2024,South,Office Supplies,Pens (box),51,12750,4121
+2024-04,2024,South,Office Supplies,Stapler,44,10560,2057
+2024-04,2024,South,Office Supplies,Binder,29,5800,1697
+2024-04,2024,East,Technology,Laptop,8,396000,49285
+2024-04,2024,East,Technology,Headphones,10,31500,3073
+2024-04,2024,East,Technology,Smartphone,5,110000,17111
+2024-04,2024,East,Technology,Monitor,9,108000,18692
+2024-04,2024,East,Technology,Keyboard,7,11340,1598
+2024-04,2024,East,Furniture,Office Chair,6,54000,3112
+2024-04,2024,East,Furniture,Desk,4,44800,-533
+2024-04,2024,East,Furniture,Bookshelf,12,62400,-4367
+2024-04,2024,East,Furniture,Lamp,3,3600,-42
+2024-04,2024,East,Furniture,Filing Cabinet,14,98000,9505
+2024-04,2024,East,Office Supplies,Notebook,29,3480,1136
+2024-04,2024,East,Office Supplies,Printer Paper,34,12240,1898
+2024-04,2024,East,Office Supplies,Pens (box),28,7000,1988
+2024-04,2024,East,Office Supplies,Stapler,28,8400,2593
+2024-04,2024,East,Office Supplies,Binder,27,4860,1175
+2024-04,2024,West,Technology,Laptop,15,660000,47464
+2024-04,2024,West,Technology,Headphones,14,49000,8491
+2024-04,2024,West,Technology,Smartphone,14,308000,60808
+2024-04,2024,West,Technology,Monitor,18,172800,8073
+2024-04,2024,West,Technology,Keyboard,13,21060,2710
+2024-04,2024,West,Furniture,Office Chair,16,144000,11926
+2024-04,2024,West,Furniture,Desk,9,126000,13562
+2024-04,2024,West,Furniture,Bookshelf,12,78000,4808
+2024-04,2024,West,Furniture,Lamp,9,10800,-703
+2024-04,2024,West,Furniture,Filing Cabinet,13,81900,295
+2024-04,2024,West,Office Supplies,Notebook,53,6360,1983
+2024-04,2024,West,Office Supplies,Printer Paper,37,13320,2156
+2024-04,2024,West,Office Supplies,Pens (box),27,6075,1545
+2024-04,2024,West,Office Supplies,Stapler,30,9000,2598
+2024-04,2024,West,Office Supplies,Binder,39,7800,2214
+2024-05,2024,North,Technology,Laptop,13,643500,62124
+2024-05,2024,North,Technology,Headphones,18,50400,3357
+2024-05,2024,North,Technology,Smartphone,15,330000,68285
+2024-05,2024,North,Technology,Monitor,9,108000,22174
+2024-05,2024,North,Technology,Keyboard,12,21600,3778
+2024-05,2024,North,Furniture,Office Chair,12,108000,6593
+2024-05,2024,North,Furniture,Desk,6,75600,2568
+2024-05,2024,North,Furniture,Bookshelf,13,84500,8948
+2024-05,2024,North,Furniture,Lamp,10,12000,-817
+2024-05,2024,North,Furniture,Filing Cabinet,14,78400,-1541
+2024-05,2024,North,Office Supplies,Notebook,48,5760,1556
+2024-05,2024,North,Office Supplies,Printer Paper,34,13770,2958
+2024-05,2024,North,Office Supplies,Pens (box),14,3500,1025
+2024-05,2024,North,Office Supplies,Stapler,48,12960,3361
+2024-05,2024,North,Office Supplies,Binder,32,5120,828
+2024-05,2024,South,Technology,Laptop,15,660000,27444
+2024-05,2024,South,Technology,Headphones,7,24500,4604
+2024-05,2024,South,Technology,Smartphone,23,506000,100547
+2024-05,2024,South,Technology,Monitor,15,180000,32012
+2024-05,2024,South,Technology,Keyboard,13,23400,3871
+2024-05,2024,South,Furniture,Office Chair,14,113400,1336
+2024-05,2024,South,Furniture,Desk,4,50400,2392
+2024-05,2024,South,Furniture,Bookshelf,12,70200,3191
+2024-05,2024,South,Furniture,Lamp,12,16200,-158
+2024-05,2024,South,Furniture,Filing Cabinet,15,105000,5403
+2024-05,2024,South,Office Supplies,Notebook,11,1320,365
+2024-05,2024,South,Office Supplies,Printer Paper,41,14760,2913
+2024-05,2024,South,Office Supplies,Pens (box),28,5600,1114
+2024-05,2024,South,Office Supplies,Stapler,56,16800,5345
+2024-05,2024,South,Office Supplies,Binder,58,10440,2708
+2024-05,2024,East,Technology,Laptop,10,495000,70129
+2024-05,2024,East,Technology,Headphones,5,14000,724
+2024-05,2024,East,Technology,Smartphone,9,198000,34353
+2024-05,2024,East,Technology,Monitor,8,96000,15824
+2024-05,2024,East,Technology,Keyboard,10,16200,1614
+2024-05,2024,East,Furniture,Office Chair,9,64800,-1101
+2024-05,2024,East,Furniture,Desk,12,168000,10500
+2024-05,2024,East,Furniture,Bookshelf,9,46800,-1876
+2024-05,2024,East,Furniture,Lamp,8,12000,696
+2024-05,2024,East,Furniture,Filing Cabinet,6,33600,-1101
+2024-05,2024,East,Office Supplies,Notebook,21,2520,798
+2024-05,2024,East,Office Supplies,Printer Paper,14,5670,1291
+2024-05,2024,East,Office Supplies,Pens (box),20,4500,999
+2024-05,2024,East,Office Supplies,Stapler,25,7500,2109
+2024-05,2024,East,Office Supplies,Binder,29,5800,1680
+2024-05,2024,West,Technology,Laptop,16,704000,31750
+2024-05,2024,West,Technology,Headphones,13,45500,8609
+2024-05,2024,West,Technology,Smartphone,18,396000,61831
+2024-05,2024,West,Technology,Monitor,5,48000,4073
+2024-05,2024,West,Technology,Keyboard,14,25200,5106
+2024-05,2024,West,Furniture,Office Chair,13,117000,12380
+2024-05,2024,West,Furniture,Desk,14,176400,3662
+2024-05,2024,West,Furniture,Bookshelf,15,97500,5494
+2024-05,2024,West,Furniture,Lamp,18,24300,74
+2024-05,2024,West,Furniture,Filing Cabinet,11,77000,8469
+2024-05,2024,West,Office Supplies,Notebook,44,5280,1615
+2024-05,2024,West,Office Supplies,Printer Paper,34,15300,4883
+2024-05,2024,West,Office Supplies,Pens (box),32,6400,1220
+2024-05,2024,West,Office Supplies,Stapler,44,13200,3589
+2024-05,2024,West,Office Supplies,Binder,50,8000,1463
+2024-06,2024,North,Technology,Laptop,13,572000,39949
+2024-06,2024,North,Technology,Headphones,12,42000,7911
+2024-06,2024,North,Technology,Smartphone,14,277200,31764
+2024-06,2024,North,Technology,Monitor,13,140400,18262
+2024-06,2024,North,Technology,Keyboard,10,16200,1860
+2024-06,2024,North,Furniture,Office Chair,12,108000,11000
+2024-06,2024,North,Furniture,Desk,15,210000,15423
+2024-06,2024,North,Furniture,Bookshelf,11,57200,-3305
+2024-06,2024,North,Furniture,Lamp,20,24000,-1517
+2024-06,2024,North,Furniture,Filing Cabinet,12,84000,6247
+2024-06,2024,North,Office Supplies,Notebook,45,5400,1500
+2024-06,2024,North,Office Supplies,Printer Paper,27,12150,3683
+2024-06,2024,North,Office Supplies,Pens (box),19,4750,1446
+2024-06,2024,North,Office Supplies,Stapler,15,4050,1030
+2024-06,2024,North,Office Supplies,Binder,41,8200,2470
+2024-06,2024,South,Technology,Laptop,19,1045000,163571
+2024-06,2024,South,Technology,Headphones,5,17500,2942
+2024-06,2024,South,Technology,Smartphone,15,330000,68816
+2024-06,2024,South,Technology,Monitor,13,124800,4390
+2024-06,2024,South,Technology,Keyboard,15,27000,5087
+2024-06,2024,South,Furniture,Office Chair,19,171000,17057
+2024-06,2024,South,Furniture,Desk,9,126000,10575
+2024-06,2024,South,Furniture,Bookshelf,26,169000,12339
+2024-06,2024,South,Furniture,Lamp,18,27000,1592
+2024-06,2024,South,Furniture,Filing Cabinet,24,168000,8814
+2024-06,2024,South,Office Supplies,Notebook,39,4680,1451
+2024-06,2024,South,Office Supplies,Printer Paper,38,13680,2503
+2024-06,2024,South,Office Supplies,Pens (box),58,13050,3249
+2024-06,2024,South,Office Supplies,Stapler,40,9600,1819
+2024-06,2024,South,Office Supplies,Binder,55,8800,1586
+2024-06,2024,East,Technology,Laptop,9,396000,22935
+2024-06,2024,East,Technology,Headphones,9,25200,1911
+2024-06,2024,East,Technology,Smartphone,10,220000,43699
+2024-06,2024,East,Technology,Monitor,6,57600,2098
+2024-06,2024,East,Technology,Keyboard,11,19800,3923
+2024-06,2024,East,Furniture,Office Chair,12,108000,5663
+2024-06,2024,East,Furniture,Desk,14,176400,6467
+2024-06,2024,East,Furniture,Bookshelf,14,91000,4846
+2024-06,2024,East,Furniture,Lamp,6,9000,464
+2024-06,2024,East,Furniture,Filing Cabinet,9,63000,6915
+2024-06,2024,East,Office Supplies,Notebook,26,3120,867
+2024-06,2024,East,Office Supplies,Printer Paper,11,3960,662
+2024-06,2024,East,Office Supplies,Pens (box),35,8750,2397
+2024-06,2024,East,Office Supplies,Stapler,12,3240,799
+2024-06,2024,East,Office Supplies,Binder,28,5040,1332
+2024-06,2024,West,Technology,Laptop,17,748000,28884
+2024-06,2024,West,Technology,Headphones,3,10500,1948
+2024-06,2024,West,Technology,Smartphone,13,286000,48375
+2024-06,2024,West,Technology,Monitor,15,180000,33875
+2024-06,2024,West,Technology,Keyboard,13,21060,2754
+2024-06,2024,West,Furniture,Office Chair,15,121500,-376
+2024-06,2024,West,Furniture,Desk,11,154000,13580
+2024-06,2024,West,Furniture,Bookshelf,7,45500,2963
+2024-06,2024,West,Furniture,Lamp,20,24000,-617
+2024-06,2024,West,Furniture,Filing Cabinet,10,63000,1552
+2024-06,2024,West,Office Supplies,Notebook,48,5184,1192
+2024-06,2024,West,Office Supplies,Printer Paper,47,21150,6087
+2024-06,2024,West,Office Supplies,Pens (box),44,9900,2263
+2024-06,2024,West,Office Supplies,Stapler,65,17550,4457
+2024-06,2024,West,Office Supplies,Binder,33,6600,1870
+2024-07,2024,North,Technology,Laptop,10,440000,26735
+2024-07,2024,North,Technology,Headphones,17,59500,9396
+2024-07,2024,North,Technology,Smartphone,12,264000,40462
+2024-07,2024,North,Technology,Monitor,17,183600,19870
+2024-07,2024,North,Technology,Keyboard,7,10080,655
+2024-07,2024,North,Furniture,Office Chair,11,99000,6163
+2024-07,2024,North,Furniture,Desk,8,112000,5695
+2024-07,2024,North,Furniture,Bookshelf,8,52000,4807
+2024-07,2024,North,Furniture,Lamp,10,15000,1534
+2024-07,2024,North,Furniture,Filing Cabinet,12,75600,1067
+2024-07,2024,North,Office Supplies,Notebook,35,3780,929
+2024-07,2024,North,Office Supplies,Printer Paper,37,13320,2479
+2024-07,2024,North,Office Supplies,Pens (box),22,5500,1783
+2024-07,2024,North,Office Supplies,Stapler,34,10200,2792
+2024-07,2024,North,Office Supplies,Binder,43,8600,2352
+2024-07,2024,South,Technology,Laptop,15,825000,124361
+2024-07,2024,South,Technology,Headphones,3,10500,1835
+2024-07,2024,South,Technology,Smartphone,11,193600,15256
+2024-07,2024,South,Technology,Monitor,16,172800,22042
+2024-07,2024,South,Technology,Keyboard,18,25920,1890
+2024-07,2024,South,Furniture,Office Chair,24,172800,-11262
+2024-07,2024,South,Furniture,Desk,15,168000,-9992
+2024-07,2024,South,Furniture,Bookshelf,18,117000,6715
+2024-07,2024,South,Furniture,Lamp,14,18900,618
+2024-07,2024,South,Furniture,Filing Cabinet,14,78400,-2262
+2024-07,2024,South,Office Supplies,Notebook,63,6804,1550
+2024-07,2024,South,Office Supplies,Printer Paper,73,32850,10604
+2024-07,2024,South,Office Supplies,Pens (box),31,7750,2171
+2024-07,2024,South,Office Supplies,Stapler,68,20400,6664
+2024-07,2024,South,Office Supplies,Binder,28,5040,1116
+2024-07,2024,East,Technology,Laptop,6,264000,22296
+2024-07,2024,East,Technology,Headphones,12,33600,1960
+2024-07,2024,East,Technology,Smartphone,9,198000,34894
+2024-07,2024,East,Technology,Monitor,9,108000,19896
+2024-07,2024,East,Technology,Keyboard,8,14400,2648
+2024-07,2024,East,Furniture,Office Chair,11,99000,5809
+2024-07,2024,East,Furniture,Desk,11,154000,10887
+2024-07,2024,East,Furniture,Bookshelf,9,58500,5385
+2024-07,2024,East,Furniture,Lamp,11,16500,1515
+2024-07,2024,East,Furniture,Filing Cabinet,9,63000,3399
+2024-07,2024,East,Office Supplies,Notebook,21,2520,813
+2024-07,2024,East,Office Supplies,Printer Paper,23,8280,1295
+2024-07,2024,East,Office Supplies,Pens (box),30,7500,2452
+2024-07,2024,East,Office Supplies,Stapler,33,9900,3163
+2024-07,2024,East,Office Supplies,Binder,23,4600,1279
+2024-07,2024,West,Technology,Laptop,10,550000,92217
+2024-07,2024,West,Technology,Headphones,11,34650,3652
+2024-07,2024,West,Technology,Smartphone,16,316800,29432
+2024-07,2024,West,Technology,Monitor,13,124800,10119
+2024-07,2024,West,Technology,Keyboard,3,5400,1066
+2024-07,2024,West,Furniture,Office Chair,18,162000,11471
+2024-07,2024,West,Furniture,Desk,14,196000,16125
+2024-07,2024,West,Furniture,Bookshelf,15,97500,8236
+2024-07,2024,West,Furniture,Lamp,21,28350,6
+2024-07,2024,West,Furniture,Filing Cabinet,16,112000,5629
+2024-07,2024,West,Office Supplies,Notebook,39,3744,583
+2024-07,2024,West,Office Supplies,Printer Paper,31,11160,2071
+2024-07,2024,West,Office Supplies,Pens (box),16,3600,881
+2024-07,2024,West,Office Supplies,Stapler,52,15600,4678
+2024-07,2024,West,Office Supplies,Binder,59,11800,3851
+2024-08,2024,North,Technology,Laptop,12,660000,123866
+2024-08,2024,North,Technology,Headphones,7,22050,2110
+2024-08,2024,North,Technology,Smartphone,19,418000,73287
+2024-08,2024,North,Technology,Monitor,8,96000,16542
+2024-08,2024,North,Technology,Keyboard,10,18000,3110
+2024-08,2024,North,Furniture,Office Chair,15,135000,14396
+2024-08,2024,North,Furniture,Desk,15,210000,14891
+2024-08,2024,North,Furniture,Bookshelf,15,87750,1869
+2024-08,2024,North,Furniture,Lamp,14,18900,3
+2024-08,2024,North,Furniture,Filing Cabinet,8,44800,-1284
+2024-08,2024,North,Office Supplies,Notebook,35,3780,899
+2024-08,2024,North,Office Supplies,Printer Paper,44,19800,5949
+2024-08,2024,North,Office Supplies,Pens (box),33,8250,2586
+2024-08,2024,North,Office Supplies,Stapler,55,16500,5171
+2024-08,2024,North,Office Supplies,Binder,27,5400,1564
+2024-08,2024,South,Technology,Laptop,12,660000,109244
+2024-08,2024,South,Technology,Headphones,30,105000,21813
+2024-08,2024,South,Technology,Smartphone,10,220000,35580
+2024-08,2024,South,Technology,Monitor,16,172800,23155
+2024-08,2024,South,Technology,Keyboard,17,24480,1137
+2024-08,2024,South,Furniture,Office Chair,23,186300,445
+2024-08,2024,South,Furniture,Desk,21,235200,-9917
+2024-08,2024,South,Furniture,Bookshelf,24,124800,-3544
+2024-08,2024,South,Furniture,Lamp,15,20250,360
+2024-08,2024,South,Furniture,Filing Cabinet,19,106400,-7413
+2024-08,2024,South,Office Supplies,Notebook,60,7200,2336
+2024-08,2024,South,Office Supplies,Printer Paper,27,9720,1951
+2024-08,2024,South,Office Supplies,Pens (box),53,13250,4118
+2024-08,2024,South,Office Supplies,Stapler,34,9180,2071
+2024-08,2024,South,Office Supplies,Binder,32,6400,2072
+2024-08,2024,East,Technology,Laptop,9,495000,81677
+2024-08,2024,East,Technology,Headphones,12,33600,1981
+2024-08,2024,East,Technology,Smartphone,15,330000,67211
+2024-08,2024,East,Technology,Monitor,10,108000,14763
+2024-08,2024,East,Technology,Keyboard,6,10800,1645
+2024-08,2024,East,Furniture,Office Chair,11,99000,5905
+2024-08,2024,East,Furniture,Desk,11,138600,-545
+2024-08,2024,East,Furniture,Bookshelf,2,10400,-390
+2024-08,2024,East,Furniture,Lamp,8,10800,230
+2024-08,2024,East,Furniture,Filing Cabinet,5,28000,-713
+2024-08,2024,East,Office Supplies,Notebook,0,0,0
+2024-08,2024,East,Office Supplies,Printer Paper,36,16200,5083
+2024-08,2024,East,Office Supplies,Pens (box),18,4050,917
+2024-08,2024,East,Office Supplies,Stapler,19,4560,701
+2024-08,2024,East,Office Supplies,Binder,47,8460,2071
+2024-08,2024,West,Technology,Laptop,17,935000,152840
+2024-08,2024,West,Technology,Headphones,12,42000,8805
+2024-08,2024,West,Technology,Smartphone,2,35200,2032
+2024-08,2024,West,Technology,Monitor,18,216000,42892
+2024-08,2024,West,Technology,Keyboard,21,37800,6734
+2024-08,2024,West,Furniture,Office Chair,10,90000,6407
+2024-08,2024,West,Furniture,Desk,12,134400,-5633
+2024-08,2024,West,Furniture,Bookshelf,11,71500,6921
+2024-08,2024,West,Furniture,Lamp,18,21600,-1052
+2024-08,2024,West,Furniture,Filing Cabinet,15,84000,-2415
+2024-08,2024,West,Office Supplies,Notebook,31,2976,568
+2024-08,2024,West,Office Supplies,Printer Paper,15,6075,1406
+2024-08,2024,West,Office Supplies,Pens (box),42,9450,2166
+2024-08,2024,West,Office Supplies,Stapler,21,6300,1950
+2024-08,2024,West,Office Supplies,Binder,41,7380,1617
+2024-09,2024,North,Technology,Laptop,10,550000,109821
+2024-09,2024,North,Technology,Headphones,15,47250,6475
+2024-09,2024,North,Technology,Smartphone,16,352000,66682
+2024-09,2024,North,Technology,Monitor,17,204000,42250
+2024-09,2024,North,Technology,Keyboard,10,18000,3325
+2024-09,2024,North,Furniture,Office Chair,9,81000,4952
+2024-09,2024,North,Furniture,Desk,5,70000,7297
+2024-09,2024,North,Furniture,Bookshelf,14,91000,7878
+2024-09,2024,North,Furniture,Lamp,7,10500,946
+2024-09,2024,North,Furniture,Filing Cabinet,1,6300,12
+2024-09,2024,North,Office Supplies,Notebook,30,2880,548
+2024-09,2024,North,Office Supplies,Printer Paper,22,9900,3003
+2024-09,2024,North,Office Supplies,Pens (box),35,8750,2611
+2024-09,2024,North,Office Supplies,Stapler,44,13200,3948
+2024-09,2024,North,Office Supplies,Binder,51,10200,3059
+2024-09,2024,South,Technology,Laptop,10,550000,87792
+2024-09,2024,South,Technology,Headphones,11,30800,2153
+2024-09,2024,South,Technology,Smartphone,21,369600,19403
+2024-09,2024,South,Technology,Monitor,3,36000,5790
+2024-09,2024,South,Technology,Keyboard,21,34020,4360
+2024-09,2024,South,Furniture,Office Chair,21,170100,6552
+2024-09,2024,South,Furniture,Desk,16,224000,18063
+2024-09,2024,South,Furniture,Bookshelf,4,26000,1633
+2024-09,2024,South,Furniture,Lamp,16,19200,-624
+2024-09,2024,South,Furniture,Filing Cabinet,9,56700,594
+2024-09,2024,South,Office Supplies,Notebook,70,8400,2411
+2024-09,2024,South,Office Supplies,Printer Paper,38,17100,5465
+2024-09,2024,South,Office Supplies,Pens (box),54,12150,2810
+2024-09,2024,South,Office Supplies,Stapler,31,8370,2196
+2024-09,2024,South,Office Supplies,Binder,45,8100,2175
+2024-09,2024,East,Technology,Laptop,6,297000,30157
+2024-09,2024,East,Technology,Headphones,4,12600,1230
+2024-09,2024,East,Technology,Smartphone,10,220000,38265
+2024-09,2024,East,Technology,Monitor,9,86400,5419
+2024-09,2024,East,Technology,Keyboard,12,21600,3300
+2024-09,2024,East,Furniture,Office Chair,10,72000,-2410
+2024-09,2024,East,Furniture,Desk,6,67200,-2217
+2024-09,2024,East,Furniture,Bookshelf,4,26000,1632
+2024-09,2024,East,Furniture,Lamp,7,10500,589
+2024-09,2024,East,Furniture,Filing Cabinet,6,42000,4290
+2024-09,2024,East,Office Supplies,Notebook,24,2880,841
+2024-09,2024,East,Office Supplies,Printer Paper,30,13500,4282
+2024-09,2024,East,Office Supplies,Pens (box),21,4725,1045
+2024-09,2024,East,Office Supplies,Stapler,25,7500,2168
+2024-09,2024,East,Office Supplies,Binder,16,3200,960
+2024-09,2024,West,Technology,Laptop,15,825000,164575
+2024-09,2024,West,Technology,Headphones,13,36400,2067
+2024-09,2024,West,Technology,Smartphone,8,176000,33580
+2024-09,2024,West,Technology,Monitor,1,12000,2142
+2024-09,2024,West,Technology,Keyboard,5,7200,453
+2024-09,2024,West,Furniture,Office Chair,17,153000,13405
+2024-09,2024,West,Furniture,Desk,15,168000,-11712
+2024-09,2024,West,Furniture,Bookshelf,12,78000,4921
+2024-09,2024,West,Furniture,Lamp,11,16500,953
+2024-09,2024,West,Furniture,Filing Cabinet,20,140000,10787
+2024-09,2024,West,Office Supplies,Notebook,41,4920,1601
+2024-09,2024,West,Office Supplies,Printer Paper,25,11250,3530
+2024-09,2024,West,Office Supplies,Pens (box),55,13750,3954
+2024-09,2024,West,Office Supplies,Stapler,25,6750,1787
+2024-09,2024,West,Office Supplies,Binder,34,6800,2129
+2024-10,2024,North,Technology,Laptop,17,935000,162070
+2024-10,2024,North,Technology,Headphones,16,50400,6742
+2024-10,2024,North,Technology,Smartphone,21,369600,24592
+2024-10,2024,North,Technology,Monitor,25,270000,30255
+2024-10,2024,North,Technology,Keyboard,11,19800,3142
+2024-10,2024,North,Furniture,Office Chair,13,117000,8400
+2024-10,2024,North,Furniture,Desk,11,123200,-5098
+2024-10,2024,North,Furniture,Bookshelf,10,52000,-692
+2024-10,2024,North,Furniture,Lamp,17,22950,156
+2024-10,2024,North,Furniture,Filing Cabinet,9,56700,2391
+2024-10,2024,North,Office Supplies,Notebook,48,5760,1763
+2024-10,2024,North,Office Supplies,Printer Paper,45,18225,4467
+2024-10,2024,North,Office Supplies,Pens (box),60,12000,2293
+2024-10,2024,North,Office Supplies,Stapler,46,13800,4395
+2024-10,2024,North,Office Supplies,Binder,48,8640,1953
+2024-10,2024,South,Technology,Laptop,20,1100000,203718
+2024-10,2024,South,Technology,Headphones,25,87500,14640
+2024-10,2024,South,Technology,Smartphone,7,154000,30601
+2024-10,2024,South,Technology,Monitor,26,280800,41705
+2024-10,2024,South,Technology,Keyboard,13,18720,951
+2024-10,2024,South,Furniture,Office Chair,27,194400,-11270
+2024-10,2024,South,Furniture,Desk,24,336000,23039
+2024-10,2024,South,Furniture,Bookshelf,26,169000,17840
+2024-10,2024,South,Furniture,Lamp,22,33000,3217
+2024-10,2024,South,Furniture,Filing Cabinet,17,107100,3891
+2024-10,2024,South,Office Supplies,Notebook,62,7440,2187
+2024-10,2024,South,Office Supplies,Printer Paper,45,18225,4348
+2024-10,2024,South,Office Supplies,Pens (box),58,14500,4080
+2024-10,2024,South,Office Supplies,Stapler,65,17550,4068
+2024-10,2024,South,Office Supplies,Binder,72,12960,3035
+2024-10,2024,East,Technology,Laptop,10,550000,112946
+2024-10,2024,East,Technology,Headphones,12,33600,1762
+2024-10,2024,East,Technology,Smartphone,17,374000,59604
+2024-10,2024,East,Technology,Monitor,16,192000,32773
+2024-10,2024,East,Technology,Keyboard,12,21600,3505
+2024-10,2024,East,Furniture,Office Chair,12,86400,-3006
+2024-10,2024,East,Furniture,Desk,15,189000,2940
+2024-10,2024,East,Furniture,Bookshelf,22,114400,-2742
+2024-10,2024,East,Furniture,Lamp,17,22950,932
+2024-10,2024,East,Furniture,Filing Cabinet,2,12600,26
+2024-10,2024,East,Office Supplies,Notebook,41,4920,1339
+2024-10,2024,East,Office Supplies,Printer Paper,43,17415,4567
+2024-10,2024,East,Office Supplies,Pens (box),8,2000,644
+2024-10,2024,East,Office Supplies,Stapler,47,11280,2316
+2024-10,2024,East,Office Supplies,Binder,37,6660,1624
+2024-10,2024,West,Technology,Laptop,15,825000,171093
+2024-10,2024,West,Technology,Headphones,14,39200,3174
+2024-10,2024,West,Technology,Smartphone,12,237600,35152
+2024-10,2024,West,Technology,Monitor,22,264000,54517
+2024-10,2024,West,Technology,Keyboard,17,27540,2577
+2024-10,2024,West,Furniture,Office Chair,16,144000,9428
+2024-10,2024,West,Furniture,Desk,17,190400,-12691
+2024-10,2024,West,Furniture,Bookshelf,23,149500,13547
+2024-10,2024,West,Furniture,Lamp,25,33750,857
+2024-10,2024,West,Furniture,Filing Cabinet,9,50400,-2548
+2024-10,2024,West,Office Supplies,Notebook,62,6696,1563
+2024-10,2024,West,Office Supplies,Printer Paper,41,14760,2425
+2024-10,2024,West,Office Supplies,Pens (box),65,16250,5279
+2024-10,2024,West,Office Supplies,Stapler,69,20700,6581
+2024-10,2024,West,Office Supplies,Binder,40,8000,2605
+2024-11,2024,North,Technology,Laptop,18,891000,127700
+2024-11,2024,North,Technology,Headphones,28,98000,19276
+2024-11,2024,North,Technology,Smartphone,28,492800,39688
+2024-11,2024,North,Technology,Monitor,12,144000,25508
+2024-11,2024,North,Technology,Keyboard,10,14400,532
+2024-11,2024,North,Furniture,Office Chair,24,194400,-279
+2024-11,2024,North,Furniture,Desk,16,179200,-6594
+2024-11,2024,North,Furniture,Bookshelf,18,117000,8932
+2024-11,2024,North,Furniture,Lamp,19,28500,1691
+2024-11,2024,North,Furniture,Filing Cabinet,20,126000,3057
+2024-11,2024,North,Office Supplies,Notebook,40,4320,1034
+2024-11,2024,North,Office Supplies,Printer Paper,76,30780,7306
+2024-11,2024,North,Office Supplies,Pens (box),39,9750,3002
+2024-11,2024,North,Office Supplies,Stapler,49,14700,4463
+2024-11,2024,North,Office Supplies,Binder,52,10400,3414
+2024-11,2024,South,Technology,Laptop,17,748000,66917
+2024-11,2024,South,Technology,Headphones,35,122500,21243
+2024-11,2024,South,Technology,Smartphone,20,352000,29488
+2024-11,2024,South,Technology,Monitor,30,324000,31966
+2024-11,2024,South,Technology,Keyboard,24,43200,7626
+2024-11,2024,South,Furniture,Office Chair,12,86400,-6038
+2024-11,2024,South,Furniture,Desk,19,239400,275
+2024-11,2024,South,Furniture,Bookshelf,6,39000,2598
+2024-11,2024,South,Furniture,Lamp,26,39000,2273
+2024-11,2024,South,Furniture,Filing Cabinet,25,175000,10815
+2024-11,2024,South,Office Supplies,Notebook,92,11040,3530
+2024-11,2024,South,Office Supplies,Printer Paper,85,34425,7591
+2024-11,2024,South,Office Supplies,Pens (box),39,9750,2991
+2024-11,2024,South,Office Supplies,Stapler,51,13770,3059
+2024-11,2024,South,Office Supplies,Binder,25,5000,1558
+2024-11,2024,East,Technology,Laptop,4,220000,39844
+2024-11,2024,East,Technology,Headphones,11,34650,3815
+2024-11,2024,East,Technology,Smartphone,17,299200,10598
+2024-11,2024,East,Technology,Monitor,5,48000,4061
+2024-11,2024,East,Technology,Keyboard,4,6480,680
+2024-11,2024,East,Furniture,Office Chair,14,113400,-884
+2024-11,2024,East,Furniture,Desk,11,154000,10991
+2024-11,2024,East,Furniture,Bookshelf,7,36400,-432
+2024-11,2024,East,Furniture,Lamp,16,24000,2376
+2024-11,2024,East,Furniture,Filing Cabinet,14,88200,3241
+2024-11,2024,East,Office Supplies,Notebook,50,6000,1725
+2024-11,2024,East,Office Supplies,Printer Paper,26,11700,3829
+2024-11,2024,East,Office Supplies,Pens (box),23,5750,1560
+2024-11,2024,East,Office Supplies,Stapler,39,11700,3316
+2024-11,2024,East,Office Supplies,Binder,41,7380,1796
+2024-11,2024,West,Technology,Laptop,20,1100000,166284
+2024-11,2024,West,Technology,Headphones,26,81900,7458
+2024-11,2024,West,Technology,Smartphone,13,228800,14043
+2024-11,2024,West,Technology,Monitor,17,204000,39377
+2024-11,2024,West,Technology,Keyboard,15,27000,4492
+2024-11,2024,West,Furniture,Office Chair,10,81000,-275
+2024-11,2024,West,Furniture,Desk,19,266000,19774
+2024-11,2024,West,Furniture,Bookshelf,23,149500,8796
+2024-11,2024,West,Furniture,Lamp,23,27600,-696
+2024-11,2024,West,Furniture,Filing Cabinet,23,128800,-3654
+2024-11,2024,West,Office Supplies,Notebook,82,9840,2890
+2024-11,2024,West,Office Supplies,Printer Paper,82,33210,7773
+2024-11,2024,West,Office Supplies,Pens (box),42,9450,2390
+2024-11,2024,West,Office Supplies,Stapler,66,17820,4614
+2024-11,2024,West,Office Supplies,Binder,34,6800,1969
+2024-12,2024,North,Technology,Laptop,21,1039500,109103
+2024-12,2024,North,Technology,Headphones,22,61600,4299
+2024-12,2024,North,Technology,Smartphone,18,396000,61046
+2024-12,2024,North,Technology,Monitor,16,153600,6458
+2024-12,2024,North,Technology,Keyboard,14,20160,1778
+2024-12,2024,North,Furniture,Office Chair,12,86400,-2765
+2024-12,2024,North,Furniture,Desk,20,280000,14577
+2024-12,2024,North,Furniture,Bookshelf,5,29250,1318
+2024-12,2024,North,Furniture,Lamp,10,15000,1309
+2024-12,2024,North,Furniture,Filing Cabinet,10,63000,-170
+2024-12,2024,North,Office Supplies,Notebook,60,7200,2068
+2024-12,2024,North,Office Supplies,Printer Paper,49,19845,4581
+2024-12,2024,North,Office Supplies,Pens (box),51,11475,2468
+2024-12,2024,North,Office Supplies,Stapler,53,15900,4713
+2024-12,2024,North,Office Supplies,Binder,14,2240,414
+2024-12,2024,South,Technology,Laptop,19,940500,98380
+2024-12,2024,South,Technology,Headphones,27,75600,5035
+2024-12,2024,South,Technology,Smartphone,24,528000,99803
+2024-12,2024,South,Technology,Monitor,23,220800,18439
+2024-12,2024,South,Technology,Keyboard,30,48600,6161
+2024-12,2024,South,Furniture,Office Chair,14,126000,8823
+2024-12,2024,South,Furniture,Desk,21,294000,23740
+2024-12,2024,South,Furniture,Bookshelf,13,84500,8911
+2024-12,2024,South,Furniture,Lamp,26,39000,3967
+2024-12,2024,South,Furniture,Filing Cabinet,20,112000,-6026
+2024-12,2024,South,Office Supplies,Notebook,86,10320,2969
+2024-12,2024,South,Office Supplies,Printer Paper,62,27900,8547
+2024-12,2024,South,Office Supplies,Pens (box),48,10800,2553
+2024-12,2024,South,Office Supplies,Stapler,79,18960,3247
+2024-12,2024,South,Office Supplies,Binder,68,13600,4097
+2024-12,2024,East,Technology,Laptop,19,1045000,182880
+2024-12,2024,East,Technology,Headphones,12,37800,3720
+2024-12,2024,East,Technology,Smartphone,14,277200,38606
+2024-12,2024,East,Technology,Monitor,18,216000,41974
+2024-12,2024,East,Technology,Keyboard,12,17280,797
+2024-12,2024,East,Furniture,Office Chair,5,45000,3365
+2024-12,2024,East,Furniture,Desk,16,224000,17892
+2024-12,2024,East,Furniture,Bookshelf,15,97500,7320
+2024-12,2024,East,Furniture,Lamp,14,21000,1528
+2024-12,2024,East,Furniture,Filing Cabinet,4,22400,-637
+2024-12,2024,East,Office Supplies,Notebook,36,3888,908
+2024-12,2024,East,Office Supplies,Printer Paper,50,18000,3400
+2024-12,2024,East,Office Supplies,Pens (box),60,12000,2074
+2024-12,2024,East,Office Supplies,Stapler,39,10530,2328
+2024-12,2024,East,Office Supplies,Binder,36,5760,1065
+2024-12,2024,West,Technology,Laptop,20,1100000,219228
+2024-12,2024,West,Technology,Headphones,10,35000,7263
+2024-12,2024,West,Technology,Smartphone,31,682000,142079
+2024-12,2024,West,Technology,Monitor,29,348000,53191
+2024-12,2024,West,Technology,Keyboard,8,11520,553
+2024-12,2024,West,Furniture,Office Chair,12,86400,-3366
+2024-12,2024,West,Furniture,Desk,16,179200,-8356
+2024-12,2024,West,Furniture,Bookshelf,12,70200,1206
+2024-12,2024,West,Furniture,Lamp,24,36000,3261
+2024-12,2024,West,Furniture,Filing Cabinet,15,94500,1895
+2024-12,2024,West,Office Supplies,Notebook,52,6240,2014
+2024-12,2024,West,Office Supplies,Printer Paper,73,26280,5152
+2024-12,2024,West,Office Supplies,Pens (box),48,10800,2716
+2024-12,2024,West,Office Supplies,Stapler,53,14310,3278
+2024-12,2024,West,Office Supplies,Binder,45,9000,2876
+2025-01,2025,North,Technology,Laptop,11,544500,71544
+2025-01,2025,North,Technology,Headphones,13,36400,2470
+2025-01,2025,North,Technology,Smartphone,5,110000,19832
+2025-01,2025,North,Technology,Monitor,11,132000,23065
+2025-01,2025,North,Technology,Keyboard,18,32400,5547
+2025-01,2025,North,Furniture,Office Chair,15,135000,12353
+2025-01,2025,North,Furniture,Desk,13,182000,19114
+2025-01,2025,North,Furniture,Bookshelf,13,67600,-1316
+2025-01,2025,North,Furniture,Lamp,7,10500,635
+2025-01,2025,North,Furniture,Filing Cabinet,9,56700,2397
+2025-01,2025,North,Office Supplies,Notebook,52,6240,1900
+2025-01,2025,North,Office Supplies,Printer Paper,29,10440,1943
+2025-01,2025,North,Office Supplies,Pens (box),49,12250,3329
+2025-01,2025,North,Office Supplies,Stapler,52,15600,4372
+2025-01,2025,North,Office Supplies,Binder,15,2400,476
+2025-01,2025,South,Technology,Laptop,15,825000,155930
+2025-01,2025,South,Technology,Headphones,13,45500,8778
+2025-01,2025,South,Technology,Smartphone,9,178200,18983
+2025-01,2025,South,Technology,Monitor,24,288000,49229
+2025-01,2025,South,Technology,Keyboard,18,25920,1748
+2025-01,2025,South,Furniture,Office Chair,20,144000,-5046
+2025-01,2025,South,Furniture,Desk,16,224000,17109
+2025-01,2025,South,Furniture,Bookshelf,13,84500,5033
+2025-01,2025,South,Furniture,Lamp,13,19500,1343
+2025-01,2025,South,Furniture,Filing Cabinet,24,151200,2284
+2025-01,2025,South,Office Supplies,Notebook,31,3348,896
+2025-01,2025,South,Office Supplies,Printer Paper,9,4050,1258
+2025-01,2025,South,Office Supplies,Pens (box),50,12500,3685
+2025-01,2025,South,Office Supplies,Stapler,28,8400,2668
+2025-01,2025,South,Office Supplies,Binder,64,12800,3523
+2025-01,2025,East,Technology,Laptop,12,660000,137473
+2025-01,2025,East,Technology,Headphones,13,40950,4659
+2025-01,2025,East,Technology,Smartphone,8,140800,7062
+2025-01,2025,East,Technology,Monitor,12,144000,29905
+2025-01,2025,East,Technology,Keyboard,3,5400,936
+2025-01,2025,East,Furniture,Office Chair,14,100800,-5341
+2025-01,2025,East,Furniture,Desk,10,140000,9868
+2025-01,2025,East,Furniture,Bookshelf,11,71500,4612
+2025-01,2025,East,Furniture,Lamp,12,18000,1499
+2025-01,2025,East,Furniture,Filing Cabinet,12,67200,-1332
+2025-01,2025,East,Office Supplies,Notebook,33,3564,795
+2025-01,2025,East,Office Supplies,Printer Paper,25,9000,1554
+2025-01,2025,East,Office Supplies,Pens (box),38,7600,1370
+2025-01,2025,East,Office Supplies,Stapler,29,8700,2797
+2025-01,2025,East,Office Supplies,Binder,20,3600,885
+2025-01,2025,West,Technology,Laptop,4,176000,11485
+2025-01,2025,West,Technology,Headphones,12,42000,6616
+2025-01,2025,West,Technology,Smartphone,17,374000,71311
+2025-01,2025,West,Technology,Monitor,22,211200,6700
+2025-01,2025,West,Technology,Keyboard,19,34200,5768
+2025-01,2025,West,Furniture,Office Chair,12,108000,10429
+2025-01,2025,West,Furniture,Desk,15,210000,14545
+2025-01,2025,West,Furniture,Bookshelf,13,76050,2914
+2025-01,2025,West,Furniture,Lamp,12,16200,25
+2025-01,2025,West,Furniture,Filing Cabinet,14,88200,-215
+2025-01,2025,West,Office Supplies,Notebook,37,3552,593
+2025-01,2025,West,Office Supplies,Printer Paper,17,7650,2495
+2025-01,2025,West,Office Supplies,Pens (box),61,15250,4145
+2025-01,2025,West,Office Supplies,Stapler,34,9180,2422
+2025-01,2025,West,Office Supplies,Binder,24,4800,1486
+2025-02,2025,North,Technology,Laptop,12,528000,26995
+2025-02,2025,North,Technology,Headphones,10,35000,5631
+2025-02,2025,North,Technology,Smartphone,20,440000,84812
+2025-02,2025,North,Technology,Monitor,19,228000,39736
+2025-02,2025,North,Technology,Keyboard,9,14580,1449
+2025-02,2025,North,Furniture,Office Chair,10,90000,7483
+2025-02,2025,North,Furniture,Desk,5,70000,5895
+2025-02,2025,North,Furniture,Bookshelf,5,29250,1332
+2025-02,2025,North,Furniture,Lamp,10,15000,851
+2025-02,2025,North,Furniture,Filing Cabinet,8,50400,2221
+2025-02,2025,North,Office Supplies,Notebook,51,6120,2010
+2025-02,2025,North,Office Supplies,Printer Paper,27,12150,3308
+2025-02,2025,North,Office Supplies,Pens (box),30,6750,1721
+2025-02,2025,North,Office Supplies,Stapler,60,18000,5311
+2025-02,2025,North,Office Supplies,Binder,37,7400,2123
+2025-02,2025,South,Technology,Laptop,0,0,0
+2025-02,2025,South,Technology,Headphones,22,69300,9113
+2025-02,2025,South,Technology,Smartphone,14,246400,14912
+2025-02,2025,South,Technology,Monitor,14,168000,30134
+2025-02,2025,South,Technology,Keyboard,13,23400,3571
+2025-02,2025,South,Furniture,Office Chair,13,105300,50
+2025-02,2025,South,Furniture,Desk,6,84000,9086
+2025-02,2025,South,Furniture,Bookshelf,12,78000,8410
+2025-02,2025,South,Furniture,Lamp,11,16500,1179
+2025-02,2025,South,Furniture,Filing Cabinet,13,81900,-145
+2025-02,2025,South,Office Supplies,Notebook,55,5280,1004
+2025-02,2025,South,Office Supplies,Printer Paper,50,18000,2844
+2025-02,2025,South,Office Supplies,Pens (box),61,13725,3457
+2025-02,2025,South,Office Supplies,Stapler,66,19800,5742
+2025-02,2025,South,Office Supplies,Binder,68,13600,4119
+2025-02,2025,East,Technology,Laptop,10,550000,102257
+2025-02,2025,East,Technology,Headphones,8,22400,1800
+2025-02,2025,East,Technology,Smartphone,8,158400,14374
+2025-02,2025,East,Technology,Monitor,11,105600,4476
+2025-02,2025,East,Technology,Keyboard,13,23400,3665
+2025-02,2025,East,Furniture,Office Chair,11,89100,1504
+2025-02,2025,East,Furniture,Desk,12,134400,-4818
+2025-02,2025,East,Furniture,Bookshelf,12,70200,6
+2025-02,2025,East,Furniture,Lamp,11,13200,-857
+2025-02,2025,East,Furniture,Filing Cabinet,10,63000,3075
+2025-02,2025,East,Office Supplies,Notebook,27,2592,538
+2025-02,2025,East,Office Supplies,Printer Paper,29,10440,1685
+2025-02,2025,East,Office Supplies,Pens (box),30,7500,2315
+2025-02,2025,East,Office Supplies,Stapler,31,8370,2086
+2025-02,2025,East,Office Supplies,Binder,47,9400,2975
+2025-02,2025,West,Technology,Laptop,18,990000,166101
+2025-02,2025,West,Technology,Headphones,17,59500,9290
+2025-02,2025,West,Technology,Smartphone,20,396000,53278
+2025-02,2025,West,Technology,Monitor,13,140400,15333
+2025-02,2025,West,Technology,Keyboard,17,27540,2704
+2025-02,2025,West,Furniture,Office Chair,22,178200,777
+2025-02,2025,West,Furniture,Desk,10,140000,7901
+2025-02,2025,West,Furniture,Bookshelf,18,93600,-1468
+2025-02,2025,West,Furniture,Lamp,4,6000,478
+2025-02,2025,West,Furniture,Filing Cabinet,11,69300,1813
+2025-02,2025,West,Office Supplies,Notebook,43,5160,1437
+2025-02,2025,West,Office Supplies,Printer Paper,44,15840,2461
+2025-02,2025,West,Office Supplies,Pens (box),51,12750,4093
+2025-02,2025,West,Office Supplies,Stapler,33,8910,1873
+2025-02,2025,West,Office Supplies,Binder,44,7040,1116
+2025-03,2025,North,Technology,Laptop,14,616000,51397
+2025-03,2025,North,Technology,Headphones,13,45500,8023
+2025-03,2025,North,Technology,Smartphone,9,198000,34200
+2025-03,2025,North,Technology,Monitor,6,72000,12714
+2025-03,2025,North,Technology,Keyboard,9,16200,2886
+2025-03,2025,North,Furniture,Office Chair,11,89100,1872
+2025-03,2025,North,Furniture,Desk,8,112000,12148
+2025-03,2025,North,Furniture,Bookshelf,15,97500,9620
+2025-03,2025,North,Furniture,Lamp,19,25650,613
+2025-03,2025,North,Furniture,Filing Cabinet,15,84000,-1078
+2025-03,2025,North,Office Supplies,Notebook,20,2160,566
+2025-03,2025,North,Office Supplies,Printer Paper,41,18450,5920
+2025-03,2025,North,Office Supplies,Pens (box),43,10750,2997
+2025-03,2025,North,Office Supplies,Stapler,60,16200,3941
+2025-03,2025,North,Office Supplies,Binder,51,10200,3100
+2025-03,2025,South,Technology,Laptop,14,616000,28130
+2025-03,2025,South,Technology,Headphones,18,63000,11522
+2025-03,2025,South,Technology,Smartphone,30,660000,107762
+2025-03,2025,South,Technology,Monitor,20,240000,43643
+2025-03,2025,South,Technology,Keyboard,9,14580,1933
+2025-03,2025,South,Furniture,Office Chair,17,153000,14403
+2025-03,2025,South,Furniture,Desk,22,308000,31136
+2025-03,2025,South,Furniture,Bookshelf,12,78000,7941
+2025-03,2025,South,Furniture,Lamp,7,10500,920
+2025-03,2025,South,Furniture,Filing Cabinet,22,123200,-2487
+2025-03,2025,South,Office Supplies,Notebook,44,4224,772
+2025-03,2025,South,Office Supplies,Printer Paper,60,21600,4244
+2025-03,2025,South,Office Supplies,Pens (box),47,11750,3436
+2025-03,2025,South,Office Supplies,Stapler,37,11100,3245
+2025-03,2025,South,Office Supplies,Binder,38,7600,2372
+2025-03,2025,East,Technology,Laptop,14,770000,148183
+2025-03,2025,East,Technology,Headphones,9,25200,2130
+2025-03,2025,East,Technology,Smartphone,19,418000,76819
+2025-03,2025,East,Technology,Monitor,16,172800,17294
+2025-03,2025,East,Technology,Keyboard,10,18000,3592
+2025-03,2025,East,Furniture,Office Chair,7,63000,4055
+2025-03,2025,East,Furniture,Desk,6,75600,2518
+2025-03,2025,East,Furniture,Bookshelf,10,65000,6435
+2025-03,2025,East,Furniture,Lamp,8,10800,412
+2025-03,2025,East,Furniture,Filing Cabinet,13,91000,4736
+2025-03,2025,East,Office Supplies,Notebook,38,4104,909
+2025-03,2025,East,Office Supplies,Printer Paper,27,9720,1470
+2025-03,2025,East,Office Supplies,Pens (box),43,10750,3217
+2025-03,2025,East,Office Supplies,Stapler,30,9000,2862
+2025-03,2025,East,Office Supplies,Binder,36,6480,1701
+2025-03,2025,West,Technology,Laptop,20,880000,70552
+2025-03,2025,West,Technology,Headphones,11,34650,5091
+2025-03,2025,West,Technology,Smartphone,12,264000,39992
+2025-03,2025,West,Technology,Monitor,20,192000,15818
+2025-03,2025,West,Technology,Keyboard,14,25200,3893
+2025-03,2025,West,Furniture,Office Chair,9,64800,-1259
+2025-03,2025,West,Furniture,Desk,9,126000,11538
+2025-03,2025,West,Furniture,Bookshelf,11,71500,5123
+2025-03,2025,West,Furniture,Lamp,15,22500,1545
+2025-03,2025,West,Furniture,Filing Cabinet,19,133000,8004
+2025-03,2025,West,Office Supplies,Notebook,58,6264,1589
+2025-03,2025,West,Office Supplies,Printer Paper,35,14175,3244
+2025-03,2025,West,Office Supplies,Pens (box),57,12825,3139
+2025-03,2025,West,Office Supplies,Stapler,42,10080,2042
+2025-03,2025,West,Office Supplies,Binder,46,9200,2832
+2025-04,2025,North,Technology,Laptop,12,528000,24499
+2025-04,2025,North,Technology,Headphones,10,31500,3509
+2025-04,2025,North,Technology,Smartphone,7,154000,32268
+2025-04,2025,North,Technology,Monitor,10,120000,24588
+2025-04,2025,North,Technology,Keyboard,14,25200,4951
+2025-04,2025,North,Furniture,Office Chair,12,108000,7752
+2025-04,2025,North,Furniture,Desk,11,154000,13996
+2025-04,2025,North,Furniture,Bookshelf,20,117000,5590
+2025-04,2025,North,Furniture,Lamp,10,15000,1065
+2025-04,2025,North,Furniture,Filing Cabinet,16,89600,-4474
+2025-04,2025,North,Office Supplies,Notebook,34,3264,588
+2025-04,2025,North,Office Supplies,Printer Paper,20,9000,2867
+2025-04,2025,North,Office Supplies,Pens (box),47,11750,3178
+2025-04,2025,North,Office Supplies,Stapler,39,9360,1631
+2025-04,2025,North,Office Supplies,Binder,21,4200,1282
+2025-04,2025,South,Technology,Laptop,22,1210000,203388
+2025-04,2025,South,Technology,Headphones,13,40950,3866
+2025-04,2025,South,Technology,Smartphone,24,528000,97680
+2025-04,2025,South,Technology,Monitor,19,205200,30626
+2025-04,2025,South,Technology,Keyboard,18,29160,4322
+2025-04,2025,South,Furniture,Office Chair,13,117000,11737
+2025-04,2025,South,Furniture,Desk,8,100800,4430
+2025-04,2025,South,Furniture,Bookshelf,15,97500,9312
+2025-04,2025,South,Furniture,Lamp,20,27000,114
+2025-04,2025,South,Furniture,Filing Cabinet,18,100800,-5844
+2025-04,2025,South,Office Supplies,Notebook,50,5400,1414
+2025-04,2025,South,Office Supplies,Printer Paper,42,18900,6195
+2025-04,2025,South,Office Supplies,Pens (box),40,10000,2748
+2025-04,2025,South,Office Supplies,Stapler,61,16470,4169
+2025-04,2025,South,Office Supplies,Binder,18,3600,1013
+2025-04,2025,East,Technology,Laptop,3,148500,21588
+2025-04,2025,East,Technology,Headphones,8,28000,4740
+2025-04,2025,East,Technology,Smartphone,11,193600,10516
+2025-04,2025,East,Technology,Monitor,9,97200,9766
+2025-04,2025,East,Technology,Keyboard,14,25200,4727
+2025-04,2025,East,Furniture,Office Chair,5,40500,1481
+2025-04,2025,East,Furniture,Desk,14,156800,-2760
+2025-04,2025,East,Furniture,Bookshelf,10,65000,6859
+2025-04,2025,East,Furniture,Lamp,0,0,0
+2025-04,2025,East,Furniture,Filing Cabinet,6,37800,-23
+2025-04,2025,East,Office Supplies,Notebook,38,4560,1329
+2025-04,2025,East,Office Supplies,Printer Paper,32,12960,3051
+2025-04,2025,East,Office Supplies,Pens (box),18,4500,1392
+2025-04,2025,East,Office Supplies,Stapler,28,7560,1692
+2025-04,2025,East,Office Supplies,Binder,17,2720,533
+2025-04,2025,West,Technology,Laptop,8,396000,51123
+2025-04,2025,West,Technology,Headphones,7,22050,2463
+2025-04,2025,West,Technology,Smartphone,12,237600,23264
+2025-04,2025,West,Technology,Monitor,20,216000,21392
+2025-04,2025,West,Technology,Keyboard,14,25200,4386
+2025-04,2025,West,Furniture,Office Chair,25,225000,12900
+2025-04,2025,West,Furniture,Desk,13,182000,15163
+2025-04,2025,West,Furniture,Bookshelf,19,111150,3808
+2025-04,2025,West,Furniture,Lamp,24,36000,3681
+2025-04,2025,West,Furniture,Filing Cabinet,19,133000,9450
+2025-04,2025,West,Office Supplies,Notebook,23,2760,818
+2025-04,2025,West,Office Supplies,Printer Paper,49,19845,5240
+2025-04,2025,West,Office Supplies,Pens (box),35,7000,1243
+2025-04,2025,West,Office Supplies,Stapler,29,8700,2694
+2025-04,2025,West,Office Supplies,Binder,71,14200,3890
+2025-05,2025,North,Technology,Laptop,10,495000,46332
+2025-05,2025,North,Technology,Headphones,9,25200,1376
+2025-05,2025,North,Technology,Smartphone,22,484000,73492
+2025-05,2025,North,Technology,Monitor,8,96000,15911
+2025-05,2025,North,Technology,Keyboard,10,18000,3052
+2025-05,2025,North,Furniture,Office Chair,14,100800,-3169
+2025-05,2025,North,Furniture,Desk,8,112000,12195
+2025-05,2025,North,Furniture,Bookshelf,26,169000,13291
+2025-05,2025,North,Furniture,Lamp,20,30000,2981
+2025-05,2025,North,Furniture,Filing Cabinet,10,63000,-296
+2025-05,2025,North,Office Supplies,Notebook,66,7920,2215
+2025-05,2025,North,Office Supplies,Printer Paper,40,14400,2343
+2025-05,2025,North,Office Supplies,Pens (box),61,13725,2920
+2025-05,2025,North,Office Supplies,Stapler,47,11280,1815
+2025-05,2025,North,Office Supplies,Binder,67,12060,3028
+2025-05,2025,South,Technology,Laptop,3,165000,26254
+2025-05,2025,South,Technology,Headphones,19,59850,5928
+2025-05,2025,South,Technology,Smartphone,14,277200,26570
+2025-05,2025,South,Technology,Monitor,20,240000,41965
+2025-05,2025,South,Technology,Keyboard,23,33120,2746
+2025-05,2025,South,Furniture,Office Chair,17,153000,9499
+2025-05,2025,South,Furniture,Desk,16,224000,11709
+2025-05,2025,South,Furniture,Bookshelf,12,62400,-1753
+2025-05,2025,South,Furniture,Lamp,16,24000,1270
+2025-05,2025,South,Furniture,Filing Cabinet,18,126000,7211
+2025-05,2025,South,Office Supplies,Notebook,45,4320,900
+2025-05,2025,South,Office Supplies,Printer Paper,48,21600,6720
+2025-05,2025,South,Office Supplies,Pens (box),49,12250,3773
+2025-05,2025,South,Office Supplies,Stapler,0,0,0
+2025-05,2025,South,Office Supplies,Binder,34,6800,1979
+2025-05,2025,East,Technology,Laptop,12,660000,127963
+2025-05,2025,East,Technology,Headphones,19,59850,7913
+2025-05,2025,East,Technology,Smartphone,13,286000,46271
+2025-05,2025,East,Technology,Monitor,10,120000,20938
+2025-05,2025,East,Technology,Keyboard,7,12600,2136
+2025-05,2025,East,Furniture,Office Chair,9,81000,7224
+2025-05,2025,East,Furniture,Desk,6,67200,-743
+2025-05,2025,East,Furniture,Bookshelf,9,52650,735
+2025-05,2025,East,Furniture,Lamp,9,13500,989
+2025-05,2025,East,Furniture,Filing Cabinet,13,72800,-1245
+2025-05,2025,East,Office Supplies,Notebook,39,4680,1331
+2025-05,2025,East,Office Supplies,Printer Paper,10,4050,1019
+2025-05,2025,East,Office Supplies,Pens (box),27,6750,2091
+2025-05,2025,East,Office Supplies,Stapler,0,0,0
+2025-05,2025,East,Office Supplies,Binder,36,7200,2119
+2025-05,2025,West,Technology,Laptop,4,198000,25956
+2025-05,2025,West,Technology,Headphones,7,19600,1731
+2025-05,2025,West,Technology,Smartphone,17,374000,66725
+2025-05,2025,West,Technology,Monitor,11,118800,14914
+2025-05,2025,West,Technology,Keyboard,10,14400,635
+2025-05,2025,West,Furniture,Office Chair,9,64800,-3155
+2025-05,2025,West,Furniture,Desk,8,112000,8244
+2025-05,2025,West,Furniture,Bookshelf,7,40950,-233
+2025-05,2025,West,Furniture,Lamp,13,19500,2056
+2025-05,2025,West,Furniture,Filing Cabinet,14,78400,-1453
+2025-05,2025,West,Office Supplies,Notebook,32,3456,834
+2025-05,2025,West,Office Supplies,Printer Paper,33,14850,4068
+2025-05,2025,West,Office Supplies,Pens (box),45,10125,2445
+2025-05,2025,West,Office Supplies,Stapler,17,5100,1583
+2025-05,2025,West,Office Supplies,Binder,38,7600,2427
+2025-06,2025,North,Technology,Laptop,7,385000,65187
+2025-06,2025,North,Technology,Headphones,14,44100,6171
+2025-06,2025,North,Technology,Smartphone,14,308000,59184
+2025-06,2025,North,Technology,Monitor,11,105600,3819
+2025-06,2025,North,Technology,Keyboard,8,12960,1519
+2025-06,2025,North,Furniture,Office Chair,19,171000,11372
+2025-06,2025,North,Furniture,Desk,11,154000,11852
+2025-06,2025,North,Furniture,Bookshelf,17,88400,-2312
+2025-06,2025,North,Furniture,Lamp,15,22500,2043
+2025-06,2025,North,Furniture,Filing Cabinet,17,107100,2070
+2025-06,2025,North,Office Supplies,Notebook,29,3132,808
+2025-06,2025,North,Office Supplies,Printer Paper,24,9720,2052
+2025-06,2025,North,Office Supplies,Pens (box),44,11000,3360
+2025-06,2025,North,Office Supplies,Stapler,55,14850,3758
+2025-06,2025,North,Office Supplies,Binder,37,7400,2116
+2025-06,2025,South,Technology,Laptop,21,924000,32783
+2025-06,2025,South,Technology,Headphones,9,31500,4967
+2025-06,2025,South,Technology,Smartphone,8,158400,20128
+2025-06,2025,South,Technology,Monitor,15,144000,7566
+2025-06,2025,South,Technology,Keyboard,17,30600,5898
+2025-06,2025,South,Furniture,Office Chair,14,113400,1263
+2025-06,2025,South,Furniture,Desk,21,235200,-4473
+2025-06,2025,South,Furniture,Bookshelf,21,122850,-762
+2025-06,2025,South,Furniture,Lamp,22,33000,2302
+2025-06,2025,South,Furniture,Filing Cabinet,24,134400,-6237
+2025-06,2025,South,Office Supplies,Notebook,61,5856,1053
+2025-06,2025,South,Office Supplies,Printer Paper,72,32400,8958
+2025-06,2025,South,Office Supplies,Pens (box),33,6600,1360
+2025-06,2025,South,Office Supplies,Stapler,44,10560,1696
+2025-06,2025,South,Office Supplies,Binder,32,6400,1897
+2025-06,2025,East,Technology,Laptop,6,330000,62774
+2025-06,2025,East,Technology,Headphones,10,35000,6094
+2025-06,2025,East,Technology,Smartphone,15,297000,40438
+2025-06,2025,East,Technology,Monitor,11,105600,3916
+2025-06,2025,East,Technology,Keyboard,10,18000,2810
+2025-06,2025,East,Furniture,Office Chair,11,99000,9988
+2025-06,2025,East,Furniture,Desk,11,154000,14270
+2025-06,2025,East,Furniture,Bookshelf,14,72800,-1326
+2025-06,2025,East,Furniture,Lamp,5,7500,824
+2025-06,2025,East,Furniture,Filing Cabinet,8,56000,5730
+2025-06,2025,East,Office Supplies,Notebook,37,4440,1248
+2025-06,2025,East,Office Supplies,Printer Paper,39,15795,3810
+2025-06,2025,East,Office Supplies,Pens (box),40,9000,2190
+2025-06,2025,East,Office Supplies,Stapler,37,8880,1695
+2025-06,2025,East,Office Supplies,Binder,28,4480,888
+2025-06,2025,West,Technology,Laptop,17,841500,91133
+2025-06,2025,West,Technology,Headphones,16,50400,7356
+2025-06,2025,West,Technology,Smartphone,16,281600,20442
+2025-06,2025,West,Technology,Monitor,21,226800,23137
+2025-06,2025,West,Technology,Keyboard,23,41400,8021
+2025-06,2025,West,Furniture,Office Chair,16,129600,-1021
+2025-06,2025,West,Furniture,Desk,14,196000,19162
+2025-06,2025,West,Furniture,Bookshelf,12,62400,-2848
+2025-06,2025,West,Furniture,Lamp,21,25200,-1456
+2025-06,2025,West,Furniture,Filing Cabinet,15,105000,5558
+2025-06,2025,West,Office Supplies,Notebook,52,6240,1990
+2025-06,2025,West,Office Supplies,Printer Paper,41,18450,5533
+2025-06,2025,West,Office Supplies,Pens (box),43,9675,2497
+2025-06,2025,West,Office Supplies,Stapler,35,10500,3160
+2025-06,2025,West,Office Supplies,Binder,41,6560,1021
+2025-07,2025,North,Technology,Laptop,15,660000,28661
+2025-07,2025,North,Technology,Headphones,2,6300,834
+2025-07,2025,North,Technology,Smartphone,8,176000,36156
+2025-07,2025,North,Technology,Monitor,14,168000,25621
+2025-07,2025,North,Technology,Keyboard,15,27000,5467
+2025-07,2025,North,Furniture,Office Chair,10,81000,2626
+2025-07,2025,North,Furniture,Desk,12,151200,1431
+2025-07,2025,North,Furniture,Bookshelf,9,58500,3458
+2025-07,2025,North,Furniture,Lamp,16,19200,-222
+2025-07,2025,North,Furniture,Filing Cabinet,1,6300,81
+2025-07,2025,North,Office Supplies,Notebook,33,3960,1116
+2025-07,2025,North,Office Supplies,Printer Paper,32,14400,4517
+2025-07,2025,North,Office Supplies,Pens (box),21,5250,1430
+2025-07,2025,North,Office Supplies,Stapler,48,12960,2817
+2025-07,2025,North,Office Supplies,Binder,78,15600,4484
+2025-07,2025,South,Technology,Laptop,8,396000,36062
+2025-07,2025,South,Technology,Headphones,18,63000,10208
+2025-07,2025,South,Technology,Smartphone,5,99000,14042
+2025-07,2025,South,Technology,Monitor,10,120000,19450
+2025-07,2025,South,Technology,Keyboard,12,17280,800
+2025-07,2025,South,Furniture,Office Chair,24,216000,18301
+2025-07,2025,South,Furniture,Desk,9,113400,-914
+2025-07,2025,South,Furniture,Bookshelf,4,23400,39
+2025-07,2025,South,Furniture,Lamp,8,12000,1073
+2025-07,2025,South,Furniture,Filing Cabinet,21,117600,-4838
+2025-07,2025,South,Office Supplies,Notebook,54,5832,1484
+2025-07,2025,South,Office Supplies,Printer Paper,62,25110,6492
+2025-07,2025,South,Office Supplies,Pens (box),75,15000,2336
+2025-07,2025,South,Office Supplies,Stapler,21,5040,896
+2025-07,2025,South,Office Supplies,Binder,40,8000,2179
+2025-07,2025,East,Technology,Laptop,7,385000,67344
+2025-07,2025,East,Technology,Headphones,8,25200,2383
+2025-07,2025,East,Technology,Smartphone,9,178200,17852
+2025-07,2025,East,Technology,Monitor,4,48000,8155
+2025-07,2025,East,Technology,Keyboard,14,20160,972
+2025-07,2025,East,Furniture,Office Chair,4,32400,-141
+2025-07,2025,East,Furniture,Desk,11,123200,-6625
+2025-07,2025,East,Furniture,Bookshelf,9,58500,4063
+2025-07,2025,East,Furniture,Lamp,10,15000,1206
+2025-07,2025,East,Furniture,Filing Cabinet,15,94500,4438
+2025-07,2025,East,Office Supplies,Notebook,28,3360,1090
+2025-07,2025,East,Office Supplies,Printer Paper,44,19800,6404
+2025-07,2025,East,Office Supplies,Pens (box),56,11200,2212
+2025-07,2025,East,Office Supplies,Stapler,34,10200,3176
+2025-07,2025,East,Office Supplies,Binder,33,6600,2115
+2025-07,2025,West,Technology,Laptop,22,1210000,212283
+2025-07,2025,West,Technology,Headphones,12,42000,6513
+2025-07,2025,West,Technology,Smartphone,12,264000,43305
+2025-07,2025,West,Technology,Monitor,7,84000,16740
+2025-07,2025,West,Technology,Keyboard,9,16200,3012
+2025-07,2025,West,Furniture,Office Chair,15,135000,13349
+2025-07,2025,West,Furniture,Desk,14,176400,-875
+2025-07,2025,West,Furniture,Bookshelf,14,91000,4609
+2025-07,2025,West,Furniture,Lamp,8,9600,-219
+2025-07,2025,West,Furniture,Filing Cabinet,22,154000,14480
+2025-07,2025,West,Office Supplies,Notebook,48,5760,1607
+2025-07,2025,West,Office Supplies,Printer Paper,39,17550,5712
+2025-07,2025,West,Office Supplies,Pens (box),50,11250,2841
+2025-07,2025,West,Office Supplies,Stapler,44,10560,1608
+2025-07,2025,West,Office Supplies,Binder,44,7920,2095
+2025-08,2025,North,Technology,Laptop,13,715000,144429
+2025-08,2025,North,Technology,Headphones,6,21000,4216
+2025-08,2025,North,Technology,Smartphone,13,257400,32166
+2025-08,2025,North,Technology,Monitor,11,105600,7430
+2025-08,2025,North,Technology,Keyboard,13,21060,3039
+2025-08,2025,North,Furniture,Office Chair,10,72000,-1444
+2025-08,2025,North,Furniture,Desk,15,168000,-7871
+2025-08,2025,North,Furniture,Bookshelf,7,40950,1428
+2025-08,2025,North,Furniture,Lamp,7,10500,568
+2025-08,2025,North,Furniture,Filing Cabinet,9,56700,1987
+2025-08,2025,North,Office Supplies,Notebook,45,4320,794
+2025-08,2025,North,Office Supplies,Printer Paper,31,11160,2059
+2025-08,2025,North,Office Supplies,Pens (box),64,16000,4696
+2025-08,2025,North,Office Supplies,Stapler,28,6720,1328
+2025-08,2025,North,Office Supplies,Binder,26,4160,725
+2025-08,2025,South,Technology,Laptop,4,220000,36014
+2025-08,2025,South,Technology,Headphones,11,30800,2389
+2025-08,2025,South,Technology,Smartphone,7,154000,25876
+2025-08,2025,South,Technology,Monitor,5,48000,2646
+2025-08,2025,South,Technology,Keyboard,8,12960,1522
+2025-08,2025,South,Furniture,Office Chair,14,113400,1546
+2025-08,2025,South,Furniture,Desk,19,212800,-6989
+2025-08,2025,South,Furniture,Bookshelf,15,87750,109
+2025-08,2025,South,Furniture,Lamp,18,21600,-984
+2025-08,2025,South,Furniture,Filing Cabinet,12,84000,7642
+2025-08,2025,South,Office Supplies,Notebook,46,5520,1615
+2025-08,2025,South,Office Supplies,Printer Paper,62,25110,6716
+2025-08,2025,South,Office Supplies,Pens (box),39,8775,1931
+2025-08,2025,South,Office Supplies,Stapler,31,7440,1254
+2025-08,2025,South,Office Supplies,Binder,73,13140,3513
+2025-08,2025,East,Technology,Laptop,0,0,0
+2025-08,2025,East,Technology,Headphones,10,35000,6071
+2025-08,2025,East,Technology,Smartphone,17,374000,77306
+2025-08,2025,East,Technology,Monitor,10,96000,6136
+2025-08,2025,East,Technology,Keyboard,7,12600,2634
+2025-08,2025,East,Furniture,Office Chair,5,36000,-2228
+2025-08,2025,East,Furniture,Desk,10,112000,-7330
+2025-08,2025,East,Furniture,Bookshelf,7,40950,682
+2025-08,2025,East,Furniture,Lamp,13,15600,-214
+2025-08,2025,East,Furniture,Filing Cabinet,9,63000,6579
+2025-08,2025,East,Office Supplies,Notebook,21,2520,689
+2025-08,2025,East,Office Supplies,Printer Paper,31,13950,4233
+2025-08,2025,East,Office Supplies,Pens (box),15,3750,1176
+2025-08,2025,East,Office Supplies,Stapler,37,8880,1351
+2025-08,2025,East,Office Supplies,Binder,29,5220,1141
+2025-08,2025,West,Technology,Laptop,16,880000,184679
+2025-08,2025,West,Technology,Headphones,17,53550,6835
+2025-08,2025,West,Technology,Smartphone,20,440000,73687
+2025-08,2025,West,Technology,Monitor,9,86400,5955
+2025-08,2025,West,Technology,Keyboard,13,18720,1115
+2025-08,2025,West,Furniture,Office Chair,19,153900,1455
+2025-08,2025,West,Furniture,Desk,13,145600,-2977
+2025-08,2025,West,Furniture,Bookshelf,15,97500,6050
+2025-08,2025,West,Furniture,Lamp,10,15000,896
+2025-08,2025,West,Furniture,Filing Cabinet,14,88200,3921
+2025-08,2025,West,Office Supplies,Notebook,34,3672,985
+2025-08,2025,West,Office Supplies,Printer Paper,45,20250,5798
+2025-08,2025,West,Office Supplies,Pens (box),30,6000,971
+2025-08,2025,West,Office Supplies,Stapler,36,10800,3358
+2025-08,2025,West,Office Supplies,Binder,57,10260,2397
+2025-09,2025,North,Technology,Laptop,4,198000,19156
+2025-09,2025,North,Technology,Headphones,20,56000,3364
+2025-09,2025,North,Technology,Smartphone,11,217800,20176
+2025-09,2025,North,Technology,Monitor,14,151200,20476
+2025-09,2025,North,Technology,Keyboard,7,10080,758
+2025-09,2025,North,Furniture,Office Chair,14,113400,1531
+2025-09,2025,North,Furniture,Desk,12,151200,6212
+2025-09,2025,North,Furniture,Bookshelf,8,52000,3410
+2025-09,2025,North,Furniture,Lamp,13,17550,197
+2025-09,2025,North,Furniture,Filing Cabinet,11,69300,411
+2025-09,2025,North,Office Supplies,Notebook,39,4680,1475
+2025-09,2025,North,Office Supplies,Printer Paper,44,15840,3169
+2025-09,2025,North,Office Supplies,Pens (box),32,8000,2469
+2025-09,2025,North,Office Supplies,Stapler,10,3000,949
+2025-09,2025,North,Office Supplies,Binder,14,2520,590
+2025-09,2025,South,Technology,Laptop,24,1056000,82731
+2025-09,2025,South,Technology,Headphones,14,49000,8913
+2025-09,2025,South,Technology,Smartphone,19,334400,23463
+2025-09,2025,South,Technology,Monitor,18,194400,25450
+2025-09,2025,South,Technology,Keyboard,14,20160,686
+2025-09,2025,South,Furniture,Office Chair,23,207000,17527
+2025-09,2025,South,Furniture,Desk,16,179200,-10244
+2025-09,2025,South,Furniture,Bookshelf,15,97500,5759
+2025-09,2025,South,Furniture,Lamp,6,9000,720
+2025-09,2025,South,Furniture,Filing Cabinet,25,140000,-2419
+2025-09,2025,South,Office Supplies,Notebook,28,3360,1038
+2025-09,2025,South,Office Supplies,Printer Paper,61,24705,6243
+2025-09,2025,South,Office Supplies,Pens (box),38,8550,2107
+2025-09,2025,South,Office Supplies,Stapler,61,16470,4127
+2025-09,2025,South,Office Supplies,Binder,41,8200,2391
+2025-09,2025,East,Technology,Laptop,10,495000,51036
+2025-09,2025,East,Technology,Headphones,9,25200,1707
+2025-09,2025,East,Technology,Smartphone,12,264000,55080
+2025-09,2025,East,Technology,Monitor,12,144000,21942
+2025-09,2025,East,Technology,Keyboard,11,19800,3319
+2025-09,2025,East,Furniture,Office Chair,9,72900,3491
+2025-09,2025,East,Furniture,Desk,8,112000,7493
+2025-09,2025,East,Furniture,Bookshelf,10,65000,4120
+2025-09,2025,East,Furniture,Lamp,13,17550,271
+2025-09,2025,East,Furniture,Filing Cabinet,16,112000,12014
+2025-09,2025,East,Office Supplies,Notebook,31,3720,1094
+2025-09,2025,East,Office Supplies,Printer Paper,36,12960,2120
+2025-09,2025,East,Office Supplies,Pens (box),55,12375,3313
+2025-09,2025,East,Office Supplies,Stapler,5,1350,337
+2025-09,2025,East,Office Supplies,Binder,31,6200,1834
+2025-09,2025,West,Technology,Laptop,21,924000,38294
+2025-09,2025,West,Technology,Headphones,12,42000,7012
+2025-09,2025,West,Technology,Smartphone,12,264000,40811
+2025-09,2025,West,Technology,Monitor,15,180000,35535
+2025-09,2025,West,Technology,Keyboard,13,23400,4596
+2025-09,2025,West,Furniture,Office Chair,16,129600,4518
+2025-09,2025,West,Furniture,Desk,22,308000,32401
+2025-09,2025,West,Furniture,Bookshelf,13,84500,6019
+2025-09,2025,West,Furniture,Lamp,6,7200,-498
+2025-09,2025,West,Furniture,Filing Cabinet,19,119700,2809
+2025-09,2025,West,Office Supplies,Notebook,25,3000,912
+2025-09,2025,West,Office Supplies,Printer Paper,38,17100,4662
+2025-09,2025,West,Office Supplies,Pens (box),56,14000,4361
+2025-09,2025,West,Office Supplies,Stapler,40,9600,1885
+2025-09,2025,West,Office Supplies,Binder,45,8100,1753
+2025-10,2025,North,Technology,Laptop,23,1012000,59871
+2025-10,2025,North,Technology,Headphones,25,87500,17912
+2025-10,2025,North,Technology,Smartphone,19,418000,84017
+2025-10,2025,North,Technology,Monitor,11,118800,14313
+2025-10,2025,North,Technology,Keyboard,18,32400,6683
+2025-10,2025,North,Furniture,Office Chair,21,189000,17504
+2025-10,2025,North,Furniture,Desk,32,358400,-8435
+2025-10,2025,North,Furniture,Bookshelf,11,57200,-3452
+2025-10,2025,North,Furniture,Lamp,22,33000,1675
+2025-10,2025,North,Furniture,Filing Cabinet,13,91000,8524
+2025-10,2025,North,Office Supplies,Notebook,48,5760,1715
+2025-10,2025,North,Office Supplies,Printer Paper,51,22950,6477
+2025-10,2025,North,Office Supplies,Pens (box),17,3825,881
+2025-10,2025,North,Office Supplies,Stapler,35,8400,1504
+2025-10,2025,North,Office Supplies,Binder,44,8800,2484
+2025-10,2025,South,Technology,Laptop,17,841500,95053
+2025-10,2025,South,Technology,Headphones,29,101500,20979
+2025-10,2025,South,Technology,Smartphone,27,475200,27269
+2025-10,2025,South,Technology,Monitor,12,115200,8721
+2025-10,2025,South,Technology,Keyboard,16,28800,5809
+2025-10,2025,South,Furniture,Office Chair,26,234000,21764
+2025-10,2025,South,Furniture,Desk,30,336000,-9569
+2025-10,2025,South,Furniture,Bookshelf,17,88400,-3011
+2025-10,2025,South,Furniture,Lamp,22,33000,3035
+2025-10,2025,South,Furniture,Filing Cabinet,26,182000,13384
+2025-10,2025,South,Office Supplies,Notebook,21,2520,776
+2025-10,2025,South,Office Supplies,Printer Paper,64,28800,9345
+2025-10,2025,South,Office Supplies,Pens (box),59,14750,4693
+2025-10,2025,South,Office Supplies,Stapler,71,21300,6954
+2025-10,2025,South,Office Supplies,Binder,66,13200,4178
+2025-10,2025,East,Technology,Laptop,19,836000,38270
+2025-10,2025,East,Technology,Headphones,15,52500,9349
+2025-10,2025,East,Technology,Smartphone,2,44000,7094
+2025-10,2025,East,Technology,Monitor,15,180000,33652
+2025-10,2025,East,Technology,Keyboard,11,15840,1346
+2025-10,2025,East,Furniture,Office Chair,18,162000,8801
+2025-10,2025,East,Furniture,Desk,20,280000,22442
+2025-10,2025,East,Furniture,Bookshelf,15,97500,9005
+2025-10,2025,East,Furniture,Lamp,10,12000,-554
+2025-10,2025,East,Furniture,Filing Cabinet,8,56000,4681
+2025-10,2025,East,Office Supplies,Notebook,44,4224,687
+2025-10,2025,East,Office Supplies,Printer Paper,50,22500,6982
+2025-10,2025,East,Office Supplies,Pens (box),60,15000,4542
+2025-10,2025,East,Office Supplies,Stapler,39,10530,2639
+2025-10,2025,East,Office Supplies,Binder,50,10000,2754
+2025-10,2025,West,Technology,Laptop,21,1039500,112436
+2025-10,2025,West,Technology,Headphones,19,59850,8147
+2025-10,2025,West,Technology,Smartphone,15,330000,51061
+2025-10,2025,West,Technology,Monitor,28,336000,60886
+2025-10,2025,West,Technology,Keyboard,21,30240,2692
+2025-10,2025,West,Furniture,Office Chair,26,234000,24566
+2025-10,2025,West,Furniture,Desk,15,210000,22002
+2025-10,2025,West,Furniture,Bookshelf,24,156000,14072
+2025-10,2025,West,Furniture,Lamp,10,15000,1515
+2025-10,2025,West,Furniture,Filing Cabinet,7,49000,4269
+2025-10,2025,West,Office Supplies,Notebook,73,7884,1865
+2025-10,2025,West,Office Supplies,Printer Paper,53,21465,5598
+2025-10,2025,West,Office Supplies,Pens (box),43,10750,3112
+2025-10,2025,West,Office Supplies,Stapler,74,17760,3476
+2025-10,2025,West,Office Supplies,Binder,69,12420,2813
+2025-11,2025,North,Technology,Laptop,17,935000,159364
+2025-11,2025,North,Technology,Headphones,23,72450,10524
+2025-11,2025,North,Technology,Smartphone,12,264000,53695
+2025-11,2025,North,Technology,Monitor,26,312000,56759
+2025-11,2025,North,Technology,Keyboard,25,40500,4678
+2025-11,2025,North,Furniture,Office Chair,24,194400,2338
+2025-11,2025,North,Furniture,Desk,2,28000,1755
+2025-11,2025,North,Furniture,Bookshelf,13,84500,7520
+2025-11,2025,North,Furniture,Lamp,4,4800,-68
+2025-11,2025,North,Furniture,Filing Cabinet,14,98000,8709
+2025-11,2025,North,Office Supplies,Notebook,58,6960,2177
+2025-11,2025,North,Office Supplies,Printer Paper,80,28800,5557
+2025-11,2025,North,Office Supplies,Pens (box),63,12600,2354
+2025-11,2025,North,Office Supplies,Stapler,51,15300,4765
+2025-11,2025,North,Office Supplies,Binder,51,10200,2963
+2025-11,2025,South,Technology,Laptop,9,495000,76975
+2025-11,2025,South,Technology,Headphones,28,98000,18558
+2025-11,2025,South,Technology,Smartphone,14,308000,59042
+2025-11,2025,South,Technology,Monitor,20,240000,43714
+2025-11,2025,South,Technology,Keyboard,24,43200,7417
+2025-11,2025,South,Furniture,Office Chair,23,165600,-5149
+2025-11,2025,South,Furniture,Desk,24,302400,13681
+2025-11,2025,South,Furniture,Bookshelf,6,35100,287
+2025-11,2025,South,Furniture,Lamp,26,31200,-880
+2025-11,2025,South,Furniture,Filing Cabinet,31,217000,22064
+2025-11,2025,South,Office Supplies,Notebook,123,11808,2014
+2025-11,2025,South,Office Supplies,Printer Paper,67,30150,8333
+2025-11,2025,South,Office Supplies,Pens (box),60,15000,4773
+2025-11,2025,South,Office Supplies,Stapler,56,16800,5388
+2025-11,2025,South,Office Supplies,Binder,49,9800,3178
+2025-11,2025,East,Technology,Laptop,17,841500,109120
+2025-11,2025,East,Technology,Headphones,19,66500,10157
+2025-11,2025,East,Technology,Smartphone,5,110000,19028
+2025-11,2025,East,Technology,Monitor,14,168000,30942
+2025-11,2025,East,Technology,Keyboard,14,25200,4186
+2025-11,2025,East,Furniture,Office Chair,15,135000,14332
+2025-11,2025,East,Furniture,Desk,10,140000,8162
+2025-11,2025,East,Furniture,Bookshelf,18,105300,1288
+2025-11,2025,East,Furniture,Lamp,17,25500,2666
+2025-11,2025,East,Furniture,Filing Cabinet,19,133000,8927
+2025-11,2025,East,Office Supplies,Notebook,24,2880,890
+2025-11,2025,East,Office Supplies,Printer Paper,57,25650,8099
+2025-11,2025,East,Office Supplies,Pens (box),47,9400,1558
+2025-11,2025,East,Office Supplies,Stapler,33,9900,2703
+2025-11,2025,East,Office Supplies,Binder,28,5600,1607
+2025-11,2025,West,Technology,Laptop,8,352000,19818
+2025-11,2025,West,Technology,Headphones,24,67200,2394
+2025-11,2025,West,Technology,Smartphone,23,506000,90623
+2025-11,2025,West,Technology,Monitor,31,297600,16789
+2025-11,2025,West,Technology,Keyboard,12,21600,3487
+2025-11,2025,West,Furniture,Office Chair,18,162000,17204
+2025-11,2025,West,Furniture,Desk,26,364000,19762
+2025-11,2025,West,Furniture,Bookshelf,20,104000,-6593
+2025-11,2025,West,Furniture,Lamp,29,34800,-1340
+2025-11,2025,West,Furniture,Filing Cabinet,19,119700,328
+2025-11,2025,West,Office Supplies,Notebook,69,8280,2473
+2025-11,2025,West,Office Supplies,Printer Paper,12,5400,1482
+2025-11,2025,West,Office Supplies,Pens (box),66,13200,2480
+2025-11,2025,West,Office Supplies,Stapler,70,18900,4046
+2025-11,2025,West,Office Supplies,Binder,66,10560,1889
+2025-12,2025,North,Technology,Laptop,17,935000,176354
+2025-12,2025,North,Technology,Headphones,18,63000,11480
+2025-12,2025,North,Technology,Smartphone,18,396000,74871
+2025-12,2025,North,Technology,Monitor,24,288000,49894
+2025-12,2025,North,Technology,Keyboard,21,37800,7614
+2025-12,2025,North,Furniture,Office Chair,14,113400,3333
+2025-12,2025,North,Furniture,Desk,12,168000,14427
+2025-12,2025,North,Furniture,Bookshelf,10,65000,5003
+2025-12,2025,North,Furniture,Lamp,20,30000,3011
+2025-12,2025,North,Furniture,Filing Cabinet,13,81900,2861
+2025-12,2025,North,Office Supplies,Notebook,16,1536,233
+2025-12,2025,North,Office Supplies,Printer Paper,31,13950,3777
+2025-12,2025,North,Office Supplies,Pens (box),64,12800,2207
+2025-12,2025,North,Office Supplies,Stapler,48,11520,2193
+2025-12,2025,North,Office Supplies,Binder,61,12200,3904
+2025-12,2025,South,Technology,Laptop,37,2035000,343087
+2025-12,2025,South,Technology,Headphones,22,69300,6369
+2025-12,2025,South,Technology,Smartphone,16,352000,60048
+2025-12,2025,South,Technology,Monitor,20,216000,29420
+2025-12,2025,South,Technology,Keyboard,20,36000,7189
+2025-12,2025,South,Furniture,Office Chair,31,251100,6629
+2025-12,2025,South,Furniture,Desk,21,235200,-8535
+2025-12,2025,South,Furniture,Bookshelf,20,130000,10884
+2025-12,2025,South,Furniture,Lamp,17,22950,1093
+2025-12,2025,South,Furniture,Filing Cabinet,24,168000,14261
+2025-12,2025,South,Office Supplies,Notebook,74,8880,2487
+2025-12,2025,South,Office Supplies,Printer Paper,57,20520,4051
+2025-12,2025,South,Office Supplies,Pens (box),69,15525,4088
+2025-12,2025,South,Office Supplies,Stapler,42,11340,3040
+2025-12,2025,South,Office Supplies,Binder,28,4480,697
+2025-12,2025,East,Technology,Laptop,6,330000,67399
+2025-12,2025,East,Technology,Headphones,17,59500,9957
+2025-12,2025,East,Technology,Smartphone,23,404800,13925
+2025-12,2025,East,Technology,Monitor,11,105600,8546
+2025-12,2025,East,Technology,Keyboard,16,28800,5091
+2025-12,2025,East,Furniture,Office Chair,7,50400,-1538
+2025-12,2025,East,Furniture,Desk,6,84000,6397
+2025-12,2025,East,Furniture,Bookshelf,9,52650,1275
+2025-12,2025,East,Furniture,Lamp,16,21600,618
+2025-12,2025,East,Furniture,Filing Cabinet,20,112000,-5379
+2025-12,2025,East,Office Supplies,Notebook,21,2520,786
+2025-12,2025,East,Office Supplies,Printer Paper,38,17100,5257
+2025-12,2025,East,Office Supplies,Pens (box),21,5250,1558
+2025-12,2025,East,Office Supplies,Stapler,45,12150,3046
+2025-12,2025,East,Office Supplies,Binder,36,7200,2145
+2025-12,2025,West,Technology,Laptop,10,495000,67885
+2025-12,2025,West,Technology,Headphones,19,66500,12140
+2025-12,2025,West,Technology,Smartphone,25,440000,38586
+2025-12,2025,West,Technology,Monitor,22,237600,26803
+2025-12,2025,West,Technology,Keyboard,16,23040,1751
+2025-12,2025,West,Furniture,Office Chair,22,198000,20342
+2025-12,2025,West,Furniture,Desk,22,308000,16059
+2025-12,2025,West,Furniture,Bookshelf,23,119600,-3734
+2025-12,2025,West,Furniture,Lamp,24,28800,-1010
+2025-12,2025,West,Furniture,Filing Cabinet,26,163800,1754
+2025-12,2025,West,Office Supplies,Notebook,48,4608,778
+2025-12,2025,West,Office Supplies,Printer Paper,68,30600,8985
+2025-12,2025,West,Office Supplies,Pens (box),30,7500,2458
+2025-12,2025,West,Office Supplies,Stapler,61,18300,5638
+2025-12,2025,West,Office Supplies,Binder,21,4200,1227
